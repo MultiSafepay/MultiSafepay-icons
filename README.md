@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://www.multisafepay.com/img/multisafepaylogo.svg" width="400px" position="center">
+</p>
+
+# MultiSafepay's collection of icons for the various payment methods we offer 
+Here you can find the logos of all payment methods MultiSafepay has to offer, as well as MultiSafepay's own. 
+
+Anything missing? Shoot us a message at at <integration@multisafepay.com>
+
 # msp-icons
 
 | Payment method  | @1x | @2x | @3x | SVG |
@@ -43,7 +52,7 @@
 | Betaalplan  | ![image](betaalplan.png)  | ![image](betaalplan@2x.png) | ![image](betaalplan@3x.png) | ![image](betaalplan.svg) |
 | Postepay  | ![image](postepay.png)  | ![image](postepay@2x.png) | ![image](postepay@3x.png) | ![image](postepay.svg) |
 | Twikey  | ![image](twikey.png)  | ![image](twikey@2x.png) | ![image](twikey@3x.png) | ![image](twikey.svg) |
-| Direct Bank Transfer  | ![image](directbanktransfer.png)  | ![image](directbanktransfer@2x.png) | ![image](directbanktransfer_02.png) | ![image]() |
+| Direct Bank Transfer  | ![image](directbanktransfer.png)  | ![image](directbanktransfer@2x.png) | ![image](directbanktransfer@3x.png) | ![image](directbanktransfer.svg) |
 
 # IDEAL Banks 
 | Payment method  | @1x | @2x | @3x | SVG |
