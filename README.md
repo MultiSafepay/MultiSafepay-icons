@@ -7,6 +7,9 @@ Here you can find the logos of all payment methods MultiSafepay has to offer, as
 
 Anything missing? Shoot us a message at at <integration@multisafepay.com>
 
+## About MultiSafepay
+MultiSafepay is a collecting payment service provider which means we take care of the agreements, technical details and payment collection required for each payment method. You can start selling online today and manage all your transactions from one place.
+
 # msp-icons
 
 | Payment method  | @1x | @2x | @3x | SVG |
@@ -54,7 +57,7 @@ Anything missing? Shoot us a message at at <integration@multisafepay.com>
 | Twikey  | ![image](methods/twikey.png)  | ![image](methods/twikey@2x.png) | ![image](methods/twikey@3x.png) | ![image](methods/twikey.svg) |
 | Direct Bank Transfer  | ![image](methods/directbanktransfer.png)  | ![image](methods/directbanktransfer@2x.png) | ![image](methods/directbanktransfer@3x.png) | ![image](methods/directbanktransfer.svg) |
 
-# IDEAL Banks 
+# iDEAL Banks 
 | Payment method  | @1x | @2x | @3x | SVG |
 | ------------- | ------------- | ------------ | ------------ | ------------ |
 | ABN  | ![image](banks/abn-amro.png)  | ![image](banks/abn-amro@2x.png) | ![image](banks/abn-amro@3x.png) | ![image](banks/abn-amro.svg) |
