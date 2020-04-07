@@ -3,14 +3,17 @@
 </p>
 
 # MultiSafepay's collection of icons for the various payment methods we offer 
-Here you can find the logos of all payment methods MultiSafepay has to offer, as well as MultiSafepay's own. 
+Here you can find the logos of all payment methods MultiSafepay has to offer, as well as MultiSafepay's own.
 
 Anything missing? Shoot us a message at at <integration@multisafepay.com>
 
 ## About MultiSafepay
 MultiSafepay is a collecting payment service provider which means we take care of the agreements, technical details and payment collection required for each payment method. You can start selling online today and manage all your transactions from one place.
 
-# msp-icons
+## Supported Payment Methods ##
+For a complete overview of our supported payment methods check out [our dedicated page](https://docs.multisafepay.com/payment-methods/).
+
+# Multisafepay-icons
 
 | Payment method  | @1x | @2x | @3x | SVG |
 | ------------- | ------------- | ------------ | ------------ | ------------ |
@@ -27,7 +30,6 @@ MultiSafepay is a collecting payment service provider which means we take care o
 | Banktransfer-ES  | ![image](methods/banktransfer-es.png)  | ![image](methods/banktransfer-es@2x.png) | ![image](methods/banktransfer-es@3x.png) | ![image](methods/banktransfer-es.svg) |
 | Banktransfer-FR  | ![image](methods/banktransfer-fr.png)  | ![image](methods/banktransfer-fr@2x.png) | ![image](methods/banktransfer-fr@3x.png) | ![image](methods/banktransfer-fr.svg) |
 | Giropay  | ![image](methods/giropay.png)  | ![image](methods/giropay@2x.png) | ![image](methods/giropay@3x.png) | ![image](methods/giropay.svg) |
-| IN3  | ![image](methods/in3.png)  | ![image](methods/in3@2x.png) | ![image](methods/in3@3x.png) | ![image](methods/in3.svg) |
 | EPS  | ![image](methods/eps.png)  | ![image](methods/eps@2x.png) | ![image](methods/eps@3x.png) | ![image](methods/eps.svg) |
 | Payafter-EN  | ![image](methods/payafter-en.png)  | ![image](methods/payafter-en@2x.png) | ![image](methods/payafter-en@3x.png) | ![image](methods/payafter-en.svg) |
 | Payafter-NL  | ![image](methods/payafter-nl.png)  | ![image](methods/payafter-nl@2x.png) | ![image](methods/payafter-nl@3x2.png) | ![image](methods/payafter-nl.svg) |
@@ -49,7 +51,7 @@ MultiSafepay is a collecting payment service provider which means we take care o
 | Belfius  | ![image](methods/belfius.png)  | ![image](methods/belfius@2x.png) | ![image](methods/belfius@3x.png) | ![image](methods/belfius.svg) |
 | KBC  | ![image](methods/kbc.png)  | ![image](methods/kbc@2x.png) | ![image](methods/kbc@3x.png) | ![image](methods/kbc.svg) |
 | ING Home'Pay  | ![image](methods/ing-homepay.png)  | ![image](methods/ing-homepay@2x.png) | ![image](methods/ing-homepay@3x.png) | ![image](methods/ing-homepay.svg) |
-| AliPay  | ![image](methods/alipay.png)  | ![image](methods/alipay@2x.png) | ![image](methods/alipay@3x.png) | ![image](methods/alipay.svg) |
+| Alipay  | ![image](methods/alipay.png)  | ![image](methods/alipay@2x.png) | ![image](methods/alipay@3x.png) | ![image](methods/alipay.svg) |
 | JCB  | ![image](methods/jcb.png)  | ![image](methods/jcb@2x.png) | ![image](methods/jcb@3x.png) | ![image](methods/jcb.svg) |
 | AfterPay  | ![image](methods/afterpay.png)  | ![image](methods/afterpay@2x.png) | ![image](methods/afterpay@3x.png) | ![image](methods/afterpay.svg) |
 | Betaalplan  | ![image](methods/betaalplan.png)  | ![image](methods/betaalplan@2x.png) | ![image](methods/betaalplan@3x.png) | ![image](methods/betaalplan.svg) |
@@ -62,7 +64,7 @@ MultiSafepay is a collecting payment service provider which means we take care o
 | ------------- | ------------- | ------------ | ------------ | ------------ |
 | ABN  | ![image](banks/abn-amro.png)  | ![image](banks/abn-amro@2x.png) | ![image](banks/abn-amro@3x.png) | ![image](banks/abn-amro.svg) |
 | ASN  | ![image](banks/asn.png)  | ![image](banks/asn@2x.png) | ![image](banks/asn@3x.png) | ![image](banks/asn.svg) |
-| Bunq  | ![image](banks/bunq.png)  | ![image](banks/bunq@2x.png) | ![image](banks/bunq@3x.png) | ![image](banks/bunq.svg) |
+| bunq  | ![image](banks/bunq.png)  | ![image](banks/bunq@2x.png) | ![image](banks/bunq@3x.png) | ![image](banks/bunq.svg) |
 | ING  | ![image](banks/ing.png)  | ![image](banks/ing@2x.png) | ![image](banks/ing@3x.png) | ![image](banks/ing.svg) |
 | Knab  | ![image](banks/knab.png)  | ![image](banks/knab@2x.png) | ![image](banks/knab@3x.png) | ![image](banks/knab.svg) |
 | Moneyou  | ![image](banks/moneyou.png)  | ![image](banks/moneyou@2x.png) | ![image](banks/moneyou@3x.png) | ![image](banks/moneyou.svg) |
@@ -110,7 +112,7 @@ MultiSafepay is a collecting payment service provider which means we take care o
 | ASN  | ![image](cards/card-ASN.png)  | ![image](cards/card-ASN@2x.png) | ![image](cards/card-ASN@3x.png) | ![image](cards/card-ASN.svg) |
 | Bancontact  | ![image](cards/card-bancontact.png)  | ![image](cards/card-bancontact@2x.png) | ![image](cards/card-bancontact@3x.png) | ![image](cards/card-bancontact.svg) |
 | Pay After Delivery  | ![image](cards/card-betaal-na-ontvangst.png)  | ![image](cards/card-betaal-na-ontvangst@2x.png) | ![image](cards/card-betaal-na-ontvangst@3x.png) | ![image](cards/card-betaal-na-ontvangst.svg) |
-| Bunq  | ![image](cards/card-bunq.png)  | ![image](cards/card-bunq@2x.png) | ![image](cards/card-bunq@3x.png) | ![image](cards/card-bunq.svg) |
+| bunq  | ![image](cards/card-bunq.png)  | ![image](cards/card-bunq@2x.png) | ![image](cards/card-bunq@3x.png) | ![image](cards/card-bunq.svg) |
 | ING  | ![image](cards/card-ing.png)  | ![image](cards/card-ing@2x.png) | ![image](cards/card-ing@3x.png) | ![image](cards/card-ing.svg) |
 | Knab  | ![image](cards/card-knab.png)  | ![image](cards/card-knab@2x.png) | ![image](cards/card-knab@3x.png) | ![image](cards/card-knab.svg) |
 | Mastercard  | ![image](cards/card-mastercard.png)  | ![image](cards/card-mastercard@2x.png) | ![image](cards/card-mastercard@3x.png) | ![image](cards/card-mastercard.svg) |
