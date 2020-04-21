@@ -32,7 +32,7 @@ MultiSafepay is a collecting payment service provider which means we take care o
 | [Payafter-NL](https://docs.multisafepay.com/payment-methods/billing-suite/pay-after-delivery/)  | ![image](methods/payafter-nl.png)  | ![image](methods/payafter-nl@2x.png) | ![image](methods/payafter-nl@3x2.png) | ![image](methods/payafter-nl.svg) |
 | [E-Invoicing](https://docs.multisafepay.com/payment-methods/billing-suite/e-invoicing/)  | ![image](methods/e-invoicing.png)  | ![image](methods/e-invoicing@2x.png) | ![image](methods/e-invoicing@3x.png) | ![image](methods/e-invoicing.svg) |
 | [Klarna](https://docs.multisafepay.com/payment-methods/billing-suite/klarna/)  | ![image](methods/klarna.png)  | ![image](methods/klarna@2x.png) | ![image](methods/klarna@3x.png) | ![image](methods/klarna.svg) |
-| [Paypal](https://docs.multisafepay.com/payment-methods/wallet/paypal/)  | ![image](methods/paypal.png)  | ![image](methods/paypal@2x.png) | ![image](methods/paypal@3x.png) | ![image](methods/paypal.svg) |
+| [PayPal](https://docs.multisafepay.com/payment-methods/wallet/paypal/)  | ![image](methods/paypal.png)  | ![image](methods/paypal@2x.png) | ![image](methods/paypal@3x.png) | ![image](methods/paypal.svg) |
 | [Dankort](https://docs.multisafepay.com/payment-methods/credit-and-debit-cards/branded-credit-cards/dankort-what-is-it/)  | ![image](methods/dankort.png)  | ![image](methods/dankort@2x.png) | ![image](methods/dankort@3x.png) | ![image](methods/dankort.svg) |	
 | [CartaSi](https://docs.multisafepay.com/payment-methods/credit-and-debit-cards/branded-credit-cards/cartasi-what-is-it/)  | ![image](methods/cartasi.png)  | ![image](methods/cartasi@2x.png) | ![image](methods/cartasi@3x.png) | ![image](methods/cartasi.svg) |
 | [Sofort-EN](https://docs.multisafepay.com/payment-methods/banks/sofort-banking/)  | ![image](methods/sofort-en.png)  | ![image](methods/sofort-en@2x.png) | ![image](methods/sofort-en@3x.png) | ![image](methods/sofort-en.svg) |
@@ -51,7 +51,7 @@ MultiSafepay is a collecting payment service provider which means we take care o
 | [Betaalplan](https://docs.multisafepay.com/payment-methods/billing-suite/betaalplan/)  | ![image](methods/betaalplan.png)  | ![image](methods/betaalplan@2x.png) | ![image](methods/betaalplan@3x.png) | ![image](methods/betaalplan.svg) |
 | [Postepay](https://docs.multisafepay.com/payment-methods/credit-and-debit-cards/branded-credit-cards/postepay/)  | ![image](methods/postepay.png)  | ![image](methods/postepay@2x.png) | ![image](methods/postepay@3x.png) | ![image](methods/postepay.svg) |
 | [Direct Bank Transfer](https://docs.multisafepay.com/payment-methods/banks/direct-bank-transfer/what-is-direct-bank-transfer/)  | ![image](methods/directbanktransfer.png)  | ![image](methods/directbanktransfer@2x.png) | ![image](methods/directbanktransfer@3x.png) | ![image](methods/directbanktransfer.svg) |
-| [Apple pay](https://docs.multisafepay.com/payment-methods/wallet/applepay/)  | ![image](methods/applepay.png) | ![image](methods/applepay@2x.png) | ![image](methods/applepay@3x.png) | ![image](methods/applepay.svg) |
+| [Apple Pay](https://docs.multisafepay.com/payment-methods/wallet/applepay/)  | ![image](methods/applepay.png) | ![image](methods/applepay@2x.png) | ![image](methods/applepay@3x.png) | ![image](methods/applepay.svg) |
 
 # iDEAL Banks 
 | Payment method  | @1x | @2x | @3x | SVG |
