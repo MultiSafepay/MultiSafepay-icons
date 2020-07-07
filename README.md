@@ -81,3 +81,4 @@ MultiSafepay is a collecting payment service provider which means we take care o
 | Webshop Giftcard  | ![image](giftcards/webshopgiftcard.png)  | ![image](giftcards/webshopgiftcard@2x.png) | ![image](giftcards/webshopgiftcard@3x.png) | ![image](giftcards/webshopgiftcard.svg) |
 | YourGift  | ![image](giftcards/yourgift.png)  | ![image](giftcards/yourgift@2x.png) | ![image](giftcards/yourgift@3x.png) | ![image](giftcards/yourgift.svg) |
 
+For MultiSafepay logos, please refer to our <a href="https://github.com/MultiSafepay/MultiSafepay-logos">GitHub logos repository</a>
