@@ -9,6 +9,7 @@ Anything missing? Shoot us a message at at <integration@multisafepay.com>
 
 ## About MultiSafepay
 MultiSafepay is a collecting payment service provider which means we take care of the agreements, technical details and payment collection required for each payment method. You can start selling online today and manage all your transactions from one place.
+For MultiSafepay logos, please refer to our <a href="https://github.com/MultiSafepay/MultiSafepay-logos">GitHub logos repository</a>
 
 # MultiSafepay-icons
 
@@ -80,5 +81,3 @@ MultiSafepay is a collecting payment service provider which means we take care o
 | VVV Cadeaukaart  | ![image](giftcards/vvvcadeaukaart.png)  | ![image](giftcards/vvvcadeaukaart@2x.png) | ![image](giftcards/vvvcadeaukaart@3x.png) | ![image](giftcards/vvvcadeaukaart.svg) |
 | Webshop Giftcard  | ![image](giftcards/webshopgiftcard.png)  | ![image](giftcards/webshopgiftcard@2x.png) | ![image](giftcards/webshopgiftcard@3x.png) | ![image](giftcards/webshopgiftcard.svg) |
 | YourGift  | ![image](giftcards/yourgift.png)  | ![image](giftcards/yourgift@2x.png) | ![image](giftcards/yourgift@3x.png) | ![image](giftcards/yourgift.svg) |
-
-For MultiSafepay logos, please refer to our <a href="https://github.com/MultiSafepay/MultiSafepay-logos">GitHub logos repository</a>
