@@ -55,6 +55,7 @@ For MultiSafepay logos, please refer to our <a href="https://github.com/MultiSaf
 | [Postepay](https://docs.multisafepay.com/payment-methods/credit-and-debit-cards/branded-credit-cards/postepay/)  | ![image](methods/postepay.png)  | ![image](methods/postepay@2x.png) | ![image](methods/postepay@3x.png) | ![image](methods/postepay.svg) |
 | [Direct Bank Transfer](https://docs.multisafepay.com/payment-methods/banks/direct-bank-transfer/what-is-direct-bank-transfer/)  | ![image](methods/directbanktransfer.png)  | ![image](methods/directbanktransfer@2x.png) | ![image](methods/directbanktransfer@3x.png) | ![image](methods/directbanktransfer.svg) |
 | [Apple Pay](https://docs.multisafepay.com/payment-methods/wallet/applepay/)  | ![image](methods/applepay.png) | ![image](methods/applepay@2x.png) | ![image](methods/applepay@3x.png) | ![image](methods/applepay.svg) |
+| [Credit card](https://docs.multisafepay.com/payment-methods/credit-and-debit-cards/)  | ![image](methods/creditcard.png) | ![image](methods/creditcard@2x.png) | ![image](methods/creditcard@3x.png) | ![image](methods/creditcard.svg) |
 
 # iDEAL Banks 
 | Payment method  | @1x | @2x | @3x | SVG |
