@@ -83,7 +83,6 @@ For MultiSafepay logos, please refer to our <a href="https://github.com/MultiSaf
 | Fashioncheque  | ![image](giftcards/fashioncheque.png)  | ![image](giftcards/fashioncheque@2x.png) | ![image](giftcards/fashioncheque@3x.png) | ![image](giftcards/fashioncheque.svg) |
 | Fashiongiftcard  | ![image](giftcards/fashion-giftcard.png)  | ![image](giftcards/fashion-giftcard@2x.png) | ![image](giftcards/fashion-giftcard@3x.png) | ![image](giftcards/fashion-giftcard.svg) |
 | Fietsenbon  | ![image](giftcards/fietsenbon.png)  | ![image](giftcards/fietsenbon@2x.png) | ![image](giftcards/fietsenbon@3x.png) | ![image](giftcards/fietsenbon.svg) |
-| Good Card  | ![image](giftcards/goodcard.png)  | ![image](giftcards/goodcard@2x.png) | ![image](giftcards/goodcard@3x.png) | ![image](giftcards/goodcard.svg) |
 | Nationale Tuinbon  | ![image](giftcards/nationale-tuinbon.png)  | ![image](giftcards/nationale-tuinbon@2x.png) | ![image](giftcards/nationale-tuinbon@3x.png) | ![image](giftcards/nationale-tuinbon.svg) |
 | Podium  | ![image](giftcards/podium-cadeaukaart.png)  | ![image](giftcards/podium-cadeaukaart@2x.png) | ![image](giftcards/podium-cadeaukaart@3x.png) | ![image](giftcards/podium-cadeaukaart.svg) |
 | Sport&Fit Cadeau  | ![image](giftcards/sportenfit.png)  | ![image](giftcards/sportenfit@2x.png) | ![image](giftcards/sportenfit@3x.png) | ![image](giftcards/sportenfit.svg) |
