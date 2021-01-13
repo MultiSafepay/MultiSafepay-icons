@@ -56,6 +56,7 @@ For MultiSafepay logos, please refer to our <a href="https://github.com/MultiSaf
 | [Request to Pay](https://docs.multisafepay.com/payment-methods/banks/request-to-pay/)  | ![image](methods/RTP.png)  | ![image](methods/RTP@2x.png) | ![image](methods/RTP@3x.png) | ![image](methods/RTP.svg) |
 | [Apple Pay](https://docs.multisafepay.com/payment-methods/wallet/applepay/)  | ![image](methods/applepay.png) | ![image](methods/applepay@2x.png) | ![image](methods/applepay@3x.png) | ![image](methods/applepay.svg) |
 | [Credit card](https://docs.multisafepay.com/payment-methods/credit-and-debit-cards/)  | ![image](methods/creditcard.png) | ![image](methods/creditcard@2x.png) | ![image](methods/creditcard@3x.png) | ![image](methods/creditcard.svg) |
+| Revolut  | ![image](methods/revolut.png) | ![image](methods/revolut@2x.png) | ![image](methods/revolut@3x.png) | ![image](methods/revolut.svg) |
 
 # iDEAL Banks 
 | Payment method  | @1x | @2x | @3x | SVG |
