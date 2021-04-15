@@ -95,3 +95,6 @@ For MultiSafepay logos, please refer to our <a href="https://github.com/MultiSaf
 | Wijncadeau  | ![image](giftcards/wijncadeau.png)  | ![image](giftcards/wijncadeau@2x.png) | ![image](giftcards/wijncadeau@3x.png) | ![image](giftcards/wijncadeau.svg) |
 | Winkel Cheque  | ![image](giftcards/Winkelcheque.png)  | ![image](giftcards/Winkelcheque@2x.png) | ![image](giftcards/Winkelcheque@3x.png) | ![image](giftcards/Winkelcheque.svg) |
 | YourGift  | ![image](giftcards/yourgift.png)  | ![image](giftcards/yourgift@2x.png) | ![image](giftcards/yourgift@3x.png) | ![image](giftcards/yourgift.svg) |
+
+## Want to be part of the team?
+Are you a developer interested in working at MultiSafepay? [View](https://www.multisafepay.com/careers/#jobopenings) our job openings and feel free to get in touch with us.
