@@ -83,6 +83,11 @@ For MultiSafepay logos, please refer to our <a href="https://github.com/MultiSaf
 | Baby Cadeaubon  | ![image](giftcards/baby-cadeaubon.png)  | ![image](giftcards/baby-cadeaubon@2x.png) | ![image](giftcards/baby-cadeaubon@3x.png) | ![image](giftcards/baby-cadeaubon.svg) |
 | Beauty & Wellness  | ![image](giftcards/beauty-wellness-cadeau.png)  | ![image](giftcards/beauty-wellness-cadeau@2x.png) | ![image](giftcards/beauty-wellness-cadeau@3x.png) | ![image](giftcards/beauty-wellness-cadeau.svg) |
 | Boekenbon  | ![image](giftcards/boekenbon.png)  | ![image](giftcards/boekenbon@2x.png) | ![image](giftcards/boekenbon@3x.png) | ![image](giftcards/boekenbon.svg) |
+| Edenred  | ![image](giftcards/edenred.png)  | ![image](giftcards/edenred@2x.png) | ![image](giftcards/edenred@3x.png) | ![image](giftcards/edenred.svg) |
+| Edenred Ticket EcoCheque  | ![image](giftcards/edenred-ticketccocheque.png)  | ![image](giftcards/edenred-ticketccocheque@2x.png) | ![image](giftcards/edenred-ticketccocheque@3x.png) | ![image](giftcards/edenred-ticketccocheque.svg) |
+| Edenred Ticket Compliments  | ![image](giftcards/edenred-ticketcompliments.png)  | ![image](giftcards/edenred-ticketcompliments@2x.png) | ![image](giftcards/edenred-ticketcompliments@3x.png) | ![image](giftcards/edenred-ticketcompliments.svg) |
+| Edenred Ticket Restaurant  | ![image](giftcards/edenred-ticketrestaurant.png)  | ![image](giftcards/edenred-ticketrestaurant@2x.png) | ![image](giftcards/edenred-ticketrestaurant@3x.png) | ![image](giftcards/edenred-ticketrestaurant.svg) |
+| Edenred Ticket Sport & Culture  | ![image](giftcards/edenred-ticketsport-culture.png)  | ![image](giftcards/edenred-ticketsport-culture@2x.png) | ![image](giftcards/edenred-ticketsport-culture@3x.png) | ![image](giftcards/edenred-ticketsport-culture.svg) |
 | Fashioncheque  | ![image](giftcards/fashioncheque.png)  | ![image](giftcards/fashioncheque@2x.png) | ![image](giftcards/fashioncheque@3x.png) | ![image](giftcards/fashioncheque.svg) |
 | Fashiongiftcard  | ![image](giftcards/fashion-giftcard.png)  | ![image](giftcards/fashion-giftcard@2x.png) | ![image](giftcards/fashion-giftcard@3x.png) | ![image](giftcards/fashion-giftcard.svg) |
 | Fietsenbon  | ![image](giftcards/fietsenbon.png)  | ![image](giftcards/fietsenbon@2x.png) | ![image](giftcards/fietsenbon@3x.png) | ![image](giftcards/fietsenbon.svg) |
