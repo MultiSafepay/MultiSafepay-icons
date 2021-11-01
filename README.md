@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.multisafepay.com/img/msp-logo-github.svg" width="400px" position="center">
+  <img src="https://www.multisafepay.com/multiSafepay-email-signature-builder/msp-full-color-rgb.svg" width="400px" position="center">
 </p>
 
 # MultiSafepay's collection of icons for the various payment methods we offer 
