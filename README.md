@@ -60,7 +60,7 @@ For MultiSafepay logos, please refer to our <a href="https://github.com/MultiSaf
 | [Cartes Bancaires](https://docs.multisafepay.com/payment-methods/credit-and-debit-cards/cartes-bancaires/)  | ![image](methods/cartes-bancaires.png)  | ![image](methods/cartes-bancaires@2x.png) | ![image](methods/cartes-bancaires@3x.png) | ![image](methods/cartes-bancaires.svg) |
 | [WeChat Pay](https://docs.multisafepay.com/payments/methods/wallet/wechatpay/)  | ![image](methods/wechatpay.png)  | ![image](methods/wechatpay@2x.png) | ![image](methods/wechatpay@3x.png) | ![image](methods/wechatpay.svg) |
 
-# Alipay+ logos
+# Alipay Plus - logos
 | Payment method  | @1x | @2x | @3x | SVG |
 | ------------- | ------------- | ------------ | ------------ | ------------ |
 | Alipay+  | ![image](methods/alipayplus.png)  | ![image](methods/alipayplus@2x.png) | ![image](methods/alipayplus@3x.png) | ![image](methods/alipayplus.svg) |
