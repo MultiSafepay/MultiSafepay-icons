@@ -22,6 +22,7 @@ For MultiSafepay logos, please refer to our <a href="https://github.com/MultiSaf
 | [iDEAL](https://docs.multisafepay.com/payment-methods/banks/ideal/)  | ![image](methods/ideal.png)  | ![image](methods/ideal@2x.png) | ![image](methods/ideal@3x.png) | ![image](methods/ideal.svg) |
 | [iDEAL QR](https://docs.multisafepay.com/payment-methods/banks/idealqr/)  | ![image](methods/ideal-qr.png)  | ![image](methods/ideal-qr@2x.png) | ![image](methods/ideal-qr@3x.png) | ![image](methods/ideal-qr.svg) |
 | [Bancontact](https://docs.multisafepay.com/payment-methods/banks/bancontact/)	  | ![image](methods/bancontact.png)  | ![image](methods/bancontact@2x.png) | ![image](methods/bancontact@3x.png) | ![image](methods/bancontact.svg) |
+| [Alipay](https://docs.multisafepay.com/payment-methods/alipay/)  | ![image](methods/alipay.png?)  | ![image](methods/alipay@2x.png?) | ![image](methods/alipay@3x.png?) | ![image](methods/alipay.svg?) |
 | [Banktransfer-EN](https://docs.multisafepay.com/payment-methods/banks/bank-transfer/)  | ![image](methods/banktransfer-en.png)  | ![image](methods/banktransfer-en@2x.png) | ![image](methods/banktransfer-en@3x.png) | ![image](methods/banktransfer-en.svg) |
 | [Banktransfer-NL](https://docs.multisafepay.com/payment-methods/banks/bank-transfer/)  | ![image](methods/banktransfer-nl.png)  | ![image](methods/banktransfer-nl@2x.png) | ![image](methods/banktransfer-nl@3x.png) | ![image](methods/banktransfer-nl.svg) |
 | [Banktransfer-DE](https://docs.multisafepay.com/payment-methods/banks/bank-transfer/)  | ![image](methods/banktransfer-de.png)  | ![image](methods/banktransfer-de@2x.png) | ![image](methods/banktransfer-de@3x.png) | ![image](methods/banktransfer-de.svg) |
@@ -59,15 +60,14 @@ For MultiSafepay logos, please refer to our <a href="https://github.com/MultiSaf
 | [Cartes Bancaires](https://docs.multisafepay.com/payment-methods/credit-and-debit-cards/cartes-bancaires/)  | ![image](methods/cartes-bancaires.png)  | ![image](methods/cartes-bancaires@2x.png) | ![image](methods/cartes-bancaires@3x.png) | ![image](methods/cartes-bancaires.svg) |
 | [WeChat Pay](https://docs.multisafepay.com/payments/methods/wallet/wechatpay/)  | ![image](methods/wechatpay.png)  | ![image](methods/wechatpay@2x.png) | ![image](methods/wechatpay@3x.png) | ![image](methods/wechatpay.svg) |
 
-# Alipay Plus - logos
+# Alipay+ - logos
 | Payment method  | @1x | @2x | @3x | SVG |
 | ------------- | ------------- | ------------ | ------------ | ------------ |
-| [Alipay](https://docs.multisafepay.com/payment-methods/alipay/)  | ![image](methods/alipay.png?)  | ![image](methods/alipay@2x.png?) | ![image](methods/alipay@3x.png?) | ![image](methods/alipay.svg?) |
+| Alipay+  | ![image](methods/alipayplus.png)  | ![image](methods/alipayplus@2x.png) | ![image](methods/alipayplus@3x.png) | ![image](methods/alipayplus.svg) |
 | Alipay CN  | ![image](methods/alipay-cn.png)  | ![image](methods/alipay-cn@2x.png) | ![image](methods/alipay-cn@3x.png) | ![image](methods/alipay-cn.svg) |
 | Alipay HK  | ![image](methods/alipay-hk.png)  | ![image](methods/alipay-hk@2x.png) | ![image](methods/alipay-hk@3x.png) | ![image](methods/alipay-hk.svg) |
-| Alipay+  | ![image](methods/alipayplus.png)  | ![image](methods/alipayplus@2x.png) | ![image](methods/alipayplus@3x.png) | ![image](methods/alipayplus.svg) |
-| Alipay+ dots  | ![image](methods/alipayplus-dots.png)  | ![image](methods/alipayplus-dots@2x.png) | ![image](methods/alipayplus-dots@3x.png) | ![image](methods/alipayplus-dots.svg) |
 | Kakao Pay  | ![image](methods/kakaopay.png)  | ![image](methods/kakaopay@2x.png) | ![image](methods/kakaopay@3x.png) | ![image](methods/kakaopay.svg) |
+| Alipay+ dots  | ![image](methods/alipayplus-dots.png)  | ![image](methods/alipayplus-dots@2x.png) | ![image](methods/alipayplus-dots@3x.png) | ![image](methods/alipayplus-dots.svg) |
 
 # iDEAL Banks 
 | Payment method  | @1x | @2x | @3x | SVG |
