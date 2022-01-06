@@ -91,7 +91,10 @@ For MultiSafepay logos, please refer to our <a href="https://github.com/MultiSaf
 | ------------- | ------------- | ------------ | ------------ | ------------ |	
 | Baby Cadeaubon  | ![image](giftcards/baby-cadeaubon.png)  | ![image](giftcards/baby-cadeaubon@2x.png) | ![image](giftcards/baby-cadeaubon@3x.png) | ![image](giftcards/baby-cadeaubon.svg) |
 | Beauty & Wellness  | ![image](giftcards/beauty-wellness-cadeau.png)  | ![image](giftcards/beauty-wellness-cadeau@2x.png) | ![image](giftcards/beauty-wellness-cadeau@3x.png) | ![image](giftcards/beauty-wellness-cadeau.svg) |
+| BeautyCadeau  | ![image](giftcards/Beautycadeau.png)  | ![image](giftcards/Beautycadeau@2x.png) | ![image](giftcards/Beautycadeau@3x.png) | ![image](giftcards/Beautycadeau.svg) |
+| Biercheque  | ![image](giftcards/Biercheque.png)  | ![image](giftcards/Biercheque@2x.png) | ![image](giftcards/Biercheque@3x.png) | ![image](giftcards/Biercheque.svg) |
 | Boekenbon  | ![image](giftcards/boekenbon.png)  | ![image](giftcards/boekenbon@2x.png) | ![image](giftcards/boekenbon@3x.png) | ![image](giftcards/boekenbon.svg) |
+| BoekenVoordeel  | ![image](giftcards/BoekenVoordeel.png)  | ![image](giftcards/BoekenVoordeel@2x.png) | ![image](giftcards/BoekenVoordeel@3x.png) | ![image](giftcards/BoekenVoordeel.svg) |
 | Edenred  | ![image](giftcards/edenred.png)  | ![image](giftcards/edenred@2x.png) | ![image](giftcards/edenred@3x.png) | ![image](giftcards/edenred.svg) |
 | Edenred Ticket EcoCheque  | ![image](giftcards/edenred-ticketccocheque.png)  | ![image](giftcards/edenred-ticketccocheque@2x.png) | ![image](giftcards/edenred-ticketccocheque@3x.png) | ![image](giftcards/edenred-ticketccocheque.svg) |
 | Edenred Ticket Compliments  | ![image](giftcards/edenred-ticketcompliments.png)  | ![image](giftcards/edenred-ticketcompliments@2x.png) | ![image](giftcards/edenred-ticketcompliments@3x.png) | ![image](giftcards/edenred-ticketcompliments.svg) |
@@ -100,10 +103,16 @@ For MultiSafepay logos, please refer to our <a href="https://github.com/MultiSaf
 | Fashioncheque  | ![image](giftcards/fashioncheque.png)  | ![image](giftcards/fashioncheque@2x.png) | ![image](giftcards/fashioncheque@3x.png) | ![image](giftcards/fashioncheque.svg) |
 | Fashiongiftcard  | ![image](giftcards/fashion-giftcard.png)  | ![image](giftcards/fashion-giftcard@2x.png) | ![image](giftcards/fashion-giftcard@3x.png) | ![image](giftcards/fashion-giftcard.svg) |
 | Fietsenbon  | ![image](giftcards/fietsenbon.png)  | ![image](giftcards/fietsenbon@2x.png) | ![image](giftcards/fietsenbon@3x.png) | ![image](giftcards/fietsenbon.svg) |
+| GezondheidsBon  | ![image](giftcards/Gezondheidsbon.png)  | ![image](giftcards/Gezondheidsbon@2x.png) | ![image](giftcards/Gezondheidsbon@3x.png) | ![image](giftcards/Gezondheidsbon.svg) |
 | GivaCard  | ![image](giftcards/Givacard.png)  | ![image](giftcards/Givacard@2x.png) | ![image](giftcards/Givacard@3x.png) | ![image](giftcards/Givacard.svg) |
 | Good4fun  | ![image](giftcards/Good4fun.png)  | ![image](giftcards/Good4fun@2x.png) | ![image](giftcards/Good4fun@3x.png) | ![image](giftcards/Good4fun.svg) |
+| Huis & Tuin Cadeau  | ![image](giftcards/Huisentuincadeau.png)  | ![image](giftcards/Huisentuincadeau@2x.png) | ![image](giftcards/Huisentuincadeau@3x.png) | ![image](giftcards/Huisentuincadeau.svg) |
+| KidsCadeau  | ![image](giftcards/Kidscadeau.png)  | ![image](giftcards/Kidscadeau@2x.png) | ![image](giftcards/Kidscadeau@3x.png) | ![image](giftcards/Kidscadeau.svg) |
+| Klus Cadeau  | ![image](giftcards/Kluscadeau.png)  | ![image](giftcards/Kluscadeau@2x.png) | ![image](giftcards/Kluscadeau@3x.png) | ![image](giftcards/Kluscadeau.svg) |
 | Nationale Tuinbon  | ![image](giftcards/nationale-tuinbon.png)  | ![image](giftcards/nationale-tuinbon@2x.png) | ![image](giftcards/nationale-tuinbon@3x.png) | ![image](giftcards/nationale-tuinbon.svg) |
+| Ohmygood  | ![image](giftcards/Ohmygood.png)  | ![image](giftcards/Ohmygood@2x.png) | ![image](giftcards/Ohmygood@3x.png) | ![image](giftcards/Ohmygood.svg) |
 | Podium  | ![image](giftcards/podium-cadeaukaart.png)  | ![image](giftcards/podium-cadeaukaart@2x.png) | ![image](giftcards/podium-cadeaukaart@3x.png) | ![image](giftcards/podium-cadeaukaart.svg) |
+| Speelgoedwinkel.nl  | ![image](giftcards/Speelgoedwinkelnl.png)  | ![image](giftcards/Speelgoedwinkelnl@2x.png) | ![image](giftcards/Speelgoedwinkelnl@3x.png) | ![image](giftcards/Speelgoedwinkelnl.svg) |
 | Sport&Fit Cadeau  | ![image](giftcards/sportenfit.png)  | ![image](giftcards/sportenfit@2x.png) | ![image](giftcards/sportenfit@3x.png) | ![image](giftcards/sportenfit.svg) |
 | Sports Gift Card  | ![image](giftcards/sports-girft-card.png)  | ![image](giftcards/sports-girft-card@2x.png) | ![image](giftcards/sports-girft-card@3x.png) | ![image](giftcards/sports-girft-card.svg) |
 | VVV Cadeaukaart  | ![image](giftcards/vvvcadeaukaart.png)  | ![image](giftcards/vvvcadeaukaart@2x.png) | ![image](giftcards/vvvcadeaukaart@3x.png) | ![image](giftcards/vvvcadeaukaart.svg) |
