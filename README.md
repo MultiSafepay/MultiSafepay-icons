@@ -54,6 +54,7 @@ For MultiSafepay logos, please refer to our <a href="https://github.com/MultiSaf
 | [Postepay](https://docs.multisafepay.com/payment-methods/credit-and-debit-cards/branded-credit-cards/postepay/)  | ![image](methods/postepay.png)  | ![image](methods/postepay@2x.png) | ![image](methods/postepay@3x.png) | ![image](methods/postepay.svg) |
 | [Request to Pay](https://docs.multisafepay.com/payment-methods/banks/request-to-pay/)  | ![image](methods/RTP.png)  | ![image](methods/RTP@2x.png) | ![image](methods/RTP@3x.png) | ![image](methods/RTP.svg) |
 | [Apple Pay](https://docs.multisafepay.com/payment-methods/wallet/applepay/)  | ![image](methods/applepay.png) | ![image](methods/applepay@2x.png) | ![image](methods/applepay@3x.png) | ![image](methods/applepay.svg) |
+| [Google Pay](https://docs.multisafepay.com/payment-methods/google-pay/)  | ![image](methods/googlepay.png) | ![image](methods/googlepay@2x.png) | ![image](methods/googlepay@3x.png) | ![image](methods/googlepay.svg) |
 | [Credit card](https://docs.multisafepay.com/payment-methods/credit-and-debit-cards/)  | ![image](methods/creditcard.png) | ![image](methods/creditcard@2x.png) | ![image](methods/creditcard@3x.png) | ![image](methods/creditcard.svg) |
 | Revolut  | ![image](methods/revolut.png) | ![image](methods/revolut@2x.png) | ![image](methods/revolut@3x.png) | ![image](methods/revolut.svg) |
 | [in3](https://docs.multisafepay.com/payment-methods/billing-suite/in3/)  | ![image](methods/in3.png) | ![image](methods/in3@2x.png) | ![image](methods/in3@3x.png) | ![image](methods/in3.svg) |
