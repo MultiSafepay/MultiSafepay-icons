@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.multisafepay.com/multiSafepay-email-signature-builder/msp-full-color-rgb.svg" width="400px" position="center">
+  <img src="https://www.multisafepay.com/fileadmin/template/img/multisafepay-logo-icon.svg" width="400px" position="center">
 </p>
 
 # MultiSafepay's collection of icons for the various payment methods we offer 
@@ -8,7 +8,11 @@ Here you can find the logos of all payment methods MultiSafepay has to offer, as
 Anything missing? Shoot us a message at at <integration@multisafepay.com>
 
 ## About MultiSafepay
-MultiSafepay is a collecting payment service provider which means we take care of the agreements, technical details and payment collection required for each payment method. You can start selling online today and manage all your transactions from one place.
+MultiSafepay has pioneered Europe's most personalized payments ecosystem for small to medium-sized businesses and marketplaces. More than 18,000 businesses have simplified their market expansion and freed up time to focus on innovation with MultiSafepay's end-to-end payments toolkit. Setting the bar in customer conversions and seamless integrations through cutting-edge technology, we work with merchants to offer a simple, tailored ecosystem for their payment needs. Merchants can rapidly adjust and grow their entire consumer and supplier payments operations in one place, with our in-house team of developers on call. At the same time, we cover the groundwork for compliance controls. MultiSafepay supports more than 30 local and international payment methods and is an acquirer and processor for all major card schemes. Our simple but powerful open API and 30+ integrations give merchants and different platforms access to the global payments landscape.
+
+MultiSafepay was behind the first-ever online sales for Dutch webshops. To this day, our mission remains to build state-of-the-art technology and provide dedicated customer service that lets merchants thrive in the digital space. 
+
+
 For MultiSafepay logos, please refer to our <a href="https://github.com/MultiSafepay/MultiSafepay-logos">GitHub logos repository</a>
 
 # MultiSafepay-icons
