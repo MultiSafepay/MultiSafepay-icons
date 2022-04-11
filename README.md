@@ -63,6 +63,7 @@ For MultiSafepay logos, please refer to our <a href="https://github.com/MultiSaf
 | Revolut  | ![image](methods/revolut.png) | ![image](methods/revolut@2x.png) | ![image](methods/revolut@3x.png) | ![image](methods/revolut.svg) |
 | [in3](https://docs.multisafepay.com/payment-methods/billing-suite/in3/)  | ![image](methods/in3.png) | ![image](methods/in3@2x.png) | ![image](methods/in3@3x.png) | ![image](methods/in3.svg) |
 | [Cartes Bancaires](https://docs.multisafepay.com/payment-methods/credit-and-debit-cards/cartes-bancaires/)  | ![image](methods/cartes-bancaires.png)  | ![image](methods/cartes-bancaires@2x.png) | ![image](methods/cartes-bancaires@3x.png) | ![image](methods/cartes-bancaires.svg) |
+| MyBank  | ![image](methods/mybank.png)  | ![image](methods/mybank@2x.png) | ![image](methods/mybank@3x.png) | ![image](methods/mybank.svg) |
 | [WeChat Pay](https://docs.multisafepay.com/payments/methods/wallet/wechatpay/)  | ![image](methods/wechatpay.png)  | ![image](methods/wechatpay@2x.png) | ![image](methods/wechatpay@3x.png) | ![image](methods/wechatpay.svg) |
 
 # Alipay Plus - logos
