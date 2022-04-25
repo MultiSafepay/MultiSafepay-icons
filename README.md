@@ -74,6 +74,7 @@ For MultiSafepay logos, please refer to our <a href="https://github.com/MultiSaf
 | Alipay HK  | ![image](methods/alipay-hk.png)  | ![image](methods/alipay-hk@2x.png) | ![image](methods/alipay-hk@3x.png) | ![image](methods/alipay-hk.svg) |
 | Kakao Pay  | ![image](methods/kakaopay.png)  | ![image](methods/kakaopay@2x.png) | ![image](methods/kakaopay@3x.png) | ![image](methods/kakaopay.svg) |
 | Alipay+ dots  | ![image](methods/alipayplus-dots.png)  | ![image](methods/alipayplus-dots@2x.png) | ![image](methods/alipayplus-dots@3x.png) | ![image](methods/alipayplus-dots.svg) |
+| GCash  | ![image](methods/gcash.png)  | ![image](methods/gcash@2x.png) | ![image](methods/gcash@3x.png) | ![image](methods/gcash.svg) |
 
 # iDEAL Banks 
 | Payment method  | @1x | @2x | @3x | SVG |
