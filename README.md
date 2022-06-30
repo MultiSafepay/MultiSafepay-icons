@@ -2,7 +2,7 @@
   <img src="https://www.multisafepay.com/fileadmin/template/img/multisafepay-logo-icon.svg" width="400px" position="center">
 </p>
 
-# MultiSafepay's collection of icons for the various payment methods we offer 
+# MultiSafepay's collection of icons for the various payment methods we offer
 Here you can find the logos of all payment methods MultiSafepay has to offer, as well as MultiSafepay's own.
 
 Anything missing? Shoot us a message at at <integration@multisafepay.com>
@@ -10,7 +10,7 @@ Anything missing? Shoot us a message at at <integration@multisafepay.com>
 ## About MultiSafepay
 MultiSafepay has pioneered Europe's most personalized payments ecosystem for small to medium-sized businesses and marketplaces. More than 18,000 businesses have simplified their market expansion and freed up time to focus on innovation with MultiSafepay's end-to-end payments toolkit. Setting the bar in customer conversions and seamless integrations through cutting-edge technology, we work with merchants to offer a simple, tailored ecosystem for their payment needs. Merchants can rapidly adjust and grow their entire consumer and supplier payments operations in one place, with our in-house team of developers on call. At the same time, we cover the groundwork for compliance controls. MultiSafepay supports more than 30 local and international payment methods and is an acquirer and processor for all major card schemes. Our simple but powerful open API and 30+ integrations give merchants and different platforms access to the global payments landscape.
 
-MultiSafepay was behind the first-ever online sales for Dutch webshops. To this day, our mission remains to build state-of-the-art technology and provide dedicated customer service that lets merchants thrive in the digital space. 
+MultiSafepay was behind the first-ever online sales for Dutch webshops. To this day, our mission remains to build state-of-the-art technology and provide dedicated customer service that lets merchants thrive in the digital space.
 
 
 For MultiSafepay logos, please refer to our <a href="https://github.com/MultiSafepay/MultiSafepay-logos">GitHub logos repository</a>
@@ -39,7 +39,7 @@ For MultiSafepay logos, please refer to our <a href="https://github.com/MultiSaf
 | [E-Invoicing](https://docs.multisafepay.com/payment-methods/billing-suite/e-invoicing/)  | ![image](methods/e-invoicing.png)  | ![image](methods/e-invoicing@2x.png) | ![image](methods/e-invoicing@3x.png) | ![image](methods/e-invoicing.svg) |
 | [Klarna](https://docs.multisafepay.com/payment-methods/billing-suite/klarna/)  | ![image](methods/klarna.png)  | ![image](methods/klarna@2x.png) | ![image](methods/klarna@3x.png) | ![image](methods/klarna.svg) |
 | [PayPal](https://docs.multisafepay.com/payment-methods/wallet/paypal/)  | ![image](methods/paypal.png)  | ![image](methods/paypal@2x.png) | ![image](methods/paypal@3x.png) | ![image](methods/paypal.svg) |
-| [Dankort](https://docs.multisafepay.com/payment-methods/credit-and-debit-cards/branded-credit-cards/dankort-what-is-it/)  | ![image](methods/dankort.png)  | ![image](methods/dankort@2x.png) | ![image](methods/dankort@3x.png) | ![image](methods/dankort.svg) |	
+| [Dankort](https://docs.multisafepay.com/payment-methods/credit-and-debit-cards/branded-credit-cards/dankort-what-is-it/)  | ![image](methods/dankort.png)  | ![image](methods/dankort@2x.png) | ![image](methods/dankort@3x.png) | ![image](methods/dankort.svg) |
 | [CartaSi](https://docs.multisafepay.com/payment-methods/credit-and-debit-cards/branded-credit-cards/cartasi-what-is-it/)  | ![image](methods/cartasi.png)  | ![image](methods/cartasi@2x.png) | ![image](methods/cartasi@3x.png) | ![image](methods/cartasi.svg) |
 | [Sofort](https://docs.multisafepay.com/payments/methods/banks/sofort/)  | ![image](methods/sofort.png)  | ![image](methods/sofort@2x.png) | ![image](methods/sofort@3x.png) | ![image](methods/sofort.svg) |
 | [Dotpay](https://docs.multisafepay.com/payment-methods/banks/dotpay/)  | ![image](methods/dotpay.png)  | ![image](methods/dotpay@2x.png) | ![image](methods/dotpay@3x.png) | ![image](methods/dotpay.svg) |
@@ -60,6 +60,8 @@ For MultiSafepay logos, please refer to our <a href="https://github.com/MultiSaf
 | [Apple Pay](https://docs.multisafepay.com/payment-methods/wallet/applepay/)  | ![image](methods/applepay.png) | ![image](methods/applepay@2x.png) | ![image](methods/applepay@3x.png) | ![image](methods/applepay.svg) |
 | [Google Pay](https://docs.multisafepay.com/payment-methods/google-pay/)  | ![image](methods/googlepay.png) | ![image](methods/googlepay@2x.png) | ![image](methods/googlepay@3x.png) | ![image](methods/googlepay.svg) |
 | [Credit card](https://docs.multisafepay.com/payment-methods/credit-and-debit-cards/)  | ![image](methods/creditcard.png) | ![image](methods/creditcard@2x.png) | ![image](methods/creditcard@3x.png) | ![image](methods/creditcard.svg) |
+| [Credit card (Alternative)](https://docs.multisafepay.com/payment-methods/credit-and-debit-cards/)  | ![image](methods/creditcard2.png) | ![image](methods/creditcard2@2x.png) | ![image](methods/creditcard2@3x.png) | ![image](methods/creditcard2.svg) |
+| [Credit card (Alternative Black)](https://docs.multisafepay.com/payment-methods/credit-and-debit-cards/)  | ![image](methods/creditcard3.png) | ![image](methods/creditcard3@2x.png) | ![image](methods/creditcard3@3x.png) | ![image](methods/creditcard3.svg) |
 | Revolut  | ![image](methods/revolut.png) | ![image](methods/revolut@2x.png) | ![image](methods/revolut@3x.png) | ![image](methods/revolut.svg) |
 | [in3](https://docs.multisafepay.com/payment-methods/billing-suite/in3/)  | ![image](methods/in3.png) | ![image](methods/in3@2x.png) | ![image](methods/in3@3x.png) | ![image](methods/in3.svg) |
 | [Cartes Bancaires](https://docs.multisafepay.com/payment-methods/credit-and-debit-cards/cartes-bancaires/)  | ![image](methods/cartes-bancaires.png)  | ![image](methods/cartes-bancaires@2x.png) | ![image](methods/cartes-bancaires@3x.png) | ![image](methods/cartes-bancaires.svg) |
@@ -76,7 +78,7 @@ For MultiSafepay logos, please refer to our <a href="https://github.com/MultiSaf
 | Alipay+ dots  | ![image](methods/alipayplus-dots.png)  | ![image](methods/alipayplus-dots@2x.png) | ![image](methods/alipayplus-dots@3x.png) | ![image](methods/alipayplus-dots.svg) |
 | GCash  | ![image](methods/gcash.png)  | ![image](methods/gcash@2x.png) | ![image](methods/gcash@3x.png) | ![image](methods/gcash.svg) |
 
-# iDEAL Banks 
+# iDEAL Banks
 | Payment method  | @1x | @2x | @3x | SVG |
 | ------------- | ------------- | ------------ | ------------ | ------------ |
 | ABN  | ![image](banks/abn-amro.png)  | ![image](banks/abn-amro@2x.png) | ![image](banks/abn-amro@3x.png) | ![image](banks/abn-amro.svg) |
@@ -95,7 +97,7 @@ For MultiSafepay logos, please refer to our <a href="https://github.com/MultiSaf
 
 # Giftcards
 | Payment method  | @1x | @2x | @3x | SVG |
-| ------------- | ------------- | ------------ | ------------ | ------------ |	
+| ------------- | ------------- | ------------ | ------------ | ------------ |
 | Baby Cadeaubon  | ![image](giftcards/baby-cadeaubon.png)  | ![image](giftcards/baby-cadeaubon@2x.png) | ![image](giftcards/baby-cadeaubon@3x.png) | ![image](giftcards/baby-cadeaubon.svg) |
 | Beauty & Wellness  | ![image](giftcards/beauty-wellness-cadeau.png)  | ![image](giftcards/beauty-wellness-cadeau@2x.png) | ![image](giftcards/beauty-wellness-cadeau@3x.png) | ![image](giftcards/beauty-wellness-cadeau.svg) |
 | BeautyCadeau  | ![image](giftcards/Beautycadeau.png)  | ![image](giftcards/Beautycadeau@2x.png) | ![image](giftcards/Beautycadeau@3x.png) | ![image](giftcards/Beautycadeau.svg) |
