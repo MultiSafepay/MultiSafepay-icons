@@ -40,6 +40,7 @@ For MultiSafepay logos, please refer to our <a href="https://github.com/MultiSaf
 | [E-Invoicing](https://docs.multisafepay.com/docs/e-invoicing)  | ![image](methods/e-invoicing.png)  | ![image](methods/e-invoicing@2x.png) | ![image](methods/e-invoicing@3x.png) | ![image](methods/e-invoicing.svg) |
 | [Klarna](https://docs.multisafepay.com/docs/klarna)  | ![image](methods/klarna.png)  | ![image](methods/klarna@2x.png) | ![image](methods/klarna@3x.png) | ![image](methods/klarna.svg) |
 | [PayPal](https://docs.multisafepay.com/docs/paypal)  | ![image](methods/paypal.png)  | ![image](methods/paypal@2x.png) | ![image](methods/paypal@3x.png) | ![image](methods/paypal.svg) |
+| Amazon Pay  | ![image](methods/amazonpay.png)  | ![image](methods/amazonpay@2x.png) | ![image](methods/amazonpay@3x.png) | ![image](methods/amazonpay.svg) |
 | [Dankort](https://docs.multisafepay.com/docs/card-payments)  | ![image](methods/dankort.png)  | ![image](methods/dankort@2x.png) | ![image](methods/dankort@3x.png) | ![image](methods/dankort.svg) |
 | [Sofort](https://docs.multisafepay.com/docs/sofort)  | ![image](methods/sofort.png)  | ![image](methods/sofort@2x.png) | ![image](methods/sofort@3x.png) | ![image](methods/sofort.svg) |
 | [Dotpay](https://docs.multisafepay.com/docs/dotpay)  | ![image](methods/dotpay.png)  | ![image](methods/dotpay@2x.png) | ![image](methods/dotpay@3x.png) | ![image](methods/dotpay.svg) |
