@@ -53,6 +53,7 @@ For MultiSafepay logos, please refer to our <a href="https://github.com/MultiSaf
 | [CBC](https://docs.multisafepay.com/docs/cbc-kbc)  | ![image](methods/cbc.png)  | ![image](methods/cbc@2x.png) | ![image](methods/cbc@3x.png) | ![image](methods/cbc.svg) |
 | [KBC](https://docs.multisafepay.com/docs/cbc-kbc)  | ![image](methods/kbc.png)  | ![image](methods/kbc@2x.png) | ![image](methods/kbc@3x.png) | ![image](methods/kbc.svg) |
 | [AfterPay](https://docs.multisafepay.com/docs/afterpay)  | ![image](methods/afterpay.png)  | ![image](methods/afterpay@2x.png) | ![image](methods/afterpay@3x.png) | ![image](methods/afterpay.svg) |
+| [Riverty](https://docs.multisafepay.com/docs/riverty)  |   |  |  | ![image](methods/afterpay-riverty-transition-logo.svg) |
 | [Betaal per Maand](https://docs.multisafepay.com/docs/betaal-per-maand)  | ![image](methods/betaalplan-nl.png)  | ![image](methods/betaalplan-nl@2x.png) | ![image](methods/betaalplan-nl@3x.png) | ![image](methods/betaalplan-nl.svg) |
 | [Betaal per Maand-en](https://docs.multisafepay.com/docs/betaal-per-maand)  | ![image](methods/betaalplan-en.png)| ![image](methods/betaalplan-en@2x.png)| ![image](methods/betaalplan-en@3x.png) | ![image](methods/betaalplan-en.svg) |
 | [Postepay](https://docs.multisafepay.com/docs/card-payments)  | ![image](methods/postepay.png)  | ![image](methods/postepay@2x.png) | ![image](methods/postepay@3x.png) | ![image](methods/postepay.svg) |
