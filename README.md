@@ -130,3 +130,21 @@ For MultiSafepay logos, please refer to our <a href="https://github.com/MultiSaf
 | Wijncadeau  | ![image](giftcards/wijncadeau.png)  | ![image](giftcards/wijncadeau@2x.png) | ![image](giftcards/wijncadeau@3x.png) | ![image](giftcards/wijncadeau.svg) |
 | Winkel Cheque  | ![image](giftcards/Winkelcheque.png)  | ![image](giftcards/Winkelcheque@2x.png) | ![image](giftcards/Winkelcheque@3x.png) | ![image](giftcards/Winkelcheque.svg) |
 | YourGift  | ![image](giftcards/yourgift.png)  | ![image](giftcards/yourgift@2x.png) | ![image](giftcards/yourgift@3x.png) | ![image](giftcards/yourgift.svg) |
+
+# Monizze - logos
+| Payment method  | @1x | @2x | @3x | SVG |
+| ------------- | ------------- | ------------ | ------------ | ------------ |
+| [Monizze](https://docs.multisafepay.com/docs/monizze)  | ![image](giftcards/monizze.png)  | ![image](giftcards/monizze@2x.png) | ![image](giftcards/monizze@3x.png) | ![image](giftcards/monizze.svg) |
+| [Gift](https://docs.multisafepay.com/docs/monizze)  | ![image](giftcards/monizze-gift-en.png)  | ![image](giftcards/monizze-gift-en@2x.png) | ![image](giftcards/monizze-gift-en@3x.png) | ![image](giftcards/monizze-gift-en.svg) |
+| [Cadeau](https://docs.multisafepay.com/docs/monizze)  | ![image](giftcards/monizze-gift-nl.png)  | ![image](giftcards/monizze-gift-nl@2x.png) | ![image](giftcards/monizze-gift-nl@3x.png) | ![image](giftcards/monizze-gift-nl.svg) |
+| [Eco](https://docs.multisafepay.com/docs/monizze)  | ![image](giftcards/monizze-eco.png)  | ![image](giftcards/monizze-eco@2x.png) | ![image](giftcards/monizze-eco@3x.png) | ![image](giftcards/monizze-eco.svg) |
+| [Meal](https://docs.multisafepay.com/docs/monizze)  | ![image](giftcards/monizze-meal-en.png)  | ![image](giftcards/monizze-meal-en@2x.png) | ![image](giftcards/monizze-meal-en@3x.png) | ![image](giftcards/monizze-meal-en.svg) |
+| [Maaltijd](https://docs.multisafepay.com/docs/monizze)  | ![image](giftcards/monizze-meal-nl.png)  | ![image](giftcards/monizze-meal-nl@2x.png) | ![image](giftcards/monizze-meal-nl@3x.png) | ![image](giftcards/monizze-meal-nl.svg) |
+| [Repas](https://docs.multisafepay.com/docs/monizze)  | ![image](giftcards/monizze-meal-fr.png)  | ![image](giftcards/monizze-meal-fr@2x.png) | ![image](giftcards/monizze-meal-fr@3x.png) | ![image](giftcards/monizze-meal-fr.svg) |
+| [Monizze + Eco](https://docs.multisafepay.com/docs/monizze)  | ![image](giftcards/monizze-sticker-eco.png)  | ![image](giftcards/monizze-sticker-eco@2x.png) | ![image](giftcards/monizze-sticker-eco@3x.png) | ![image](giftcards/monizze-sticker-eco.svg) |
+| [Monizze + Eco, Gift](https://docs.multisafepay.com/docs/monizze)  | ![image](giftcards/monizze-sticker-ecogift.png)  | ![image](giftcards/monizze-sticker-ecogift@2x.png) | ![image](giftcards/monizze-sticker-ecogift@3x.png) | ![image](giftcards/monizze-sticker-ecogift.svg) |
+| [Monizze + Gift](https://docs.multisafepay.com/docs/monizze)  | ![image](giftcards/monizze-sticker-gift.png)  | ![image](giftcards/monizze-sticker-gift@2x.png) | ![image](giftcards/monizze-sticker-gift@3x.png) | ![image](giftcards/monizze-sticker-gift.svg) |
+| [Monizze + Meal](https://docs.multisafepay.com/docs/monizze)  | ![image](giftcards/monizze-sticker-meal.png)  | ![image](giftcards/monizze-sticker-meal@2x.png) | ![image](giftcards/monizze-sticker-meal@3x.png) | ![image](giftcards/monizze-sticker-meal.svg) |
+| [Monizze + Meal, Eco](https://docs.multisafepay.com/docs/monizze)  | ![image](giftcards/monizze-sticker-mealeco.png)  | ![image](giftcards/monizze-sticker-mealeco@2x.png) | ![image](giftcards/monizze-sticker-mealeco@3x.png) | ![image](giftcards/monizze-sticker-mealeco.svg) |
+| [Monizze + Meal, Gift](https://docs.multisafepay.com/docs/monizze)  | ![image](giftcards/monizze-sticker-mealgift.png)  | ![image](giftcards/monizze-sticker-mealgift@2x.png) | ![image](giftcards/monizze-sticker-mealgift@3x.png) | ![image](giftcards/monizze-sticker-mealgift.svg) |
+| [Monizze + Meal, Eco, Gift](https://docs.multisafepay.com/docs/monizze)  | ![image](giftcards/monizze-sticker-mealecogift.png)  | ![image](giftcards/monizze-sticker-mealecogift@2x.png) | ![image](giftcards/monizze-sticker-mealecogift@3x.png) | ![image](giftcards/monizze-sticker-mealecogift.svg) |
