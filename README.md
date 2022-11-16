@@ -121,6 +121,7 @@ For MultiSafepay logos, please refer to our <a href="https://github.com/MultiSaf
 | Nationale Tuinbon  | ![image](giftcards/nationale-tuinbon.png)  | ![image](giftcards/nationale-tuinbon@2x.png) | ![image](giftcards/nationale-tuinbon@3x.png) | ![image](giftcards/nationale-tuinbon.svg) |
 | Ohmygood  | ![image](giftcards/Ohmygood.png)  | ![image](giftcards/Ohmygood@2x.png) | ![image](giftcards/Ohmygood@3x.png) | ![image](giftcards/Ohmygood.svg) |
 | Podium  | ![image](giftcards/podium-cadeaukaart.png)  | ![image](giftcards/podium-cadeaukaart@2x.png) | ![image](giftcards/podium-cadeaukaart@3x.png) | ![image](giftcards/podium-cadeaukaart.svg) |
+| Sodexo - Sport & Culture Pass  | ![image](giftcards/sodexo-sportculturepass.png)  | ![image](giftcards/sodexo-sportculturepass@2x.png) | ![image](giftcards/sodexo-sportculturepass@3x.png) | ![image](giftcards/sodexo-sportculturepass.svg) |
 | Speelgoedwinkel.nl  | ![image](giftcards/Speelgoedwinkelnl.png)  | ![image](giftcards/Speelgoedwinkelnl@2x.png) | ![image](giftcards/Speelgoedwinkelnl@3x.png) | ![image](giftcards/Speelgoedwinkelnl.svg) |
 | Sport&Fit Cadeau  | ![image](giftcards/sportenfit.png)  | ![image](giftcards/sportenfit@2x.png) | ![image](giftcards/sportenfit@3x.png) | ![image](giftcards/sportenfit.svg) |
 | Sports Gift Card  | ![image](giftcards/sports-girft-card.png)  | ![image](giftcards/sports-girft-card@2x.png) | ![image](giftcards/sports-girft-card@3x.png) | ![image](giftcards/sports-girft-card.svg) |
