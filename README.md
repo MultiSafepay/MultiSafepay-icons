@@ -69,11 +69,11 @@ For MultiSafepay logos, please refer to our <a href="https://github.com/MultiSaf
 # Pay After Delivery
 | Payment method  | @1x | @2x | @3x | SVG |
 | ------------- | ------------- | ------------ | ------------ | ------------ |
-| Pay After Delivery - EN  | ![image](banks/PAD-EN.png)  | ![image](banks/PAD-EN@2x.png) | ![image](banks/PAD-EN@3x.png) | ![image](banks/PAD-EN.svg) |
-| Pay After Delivery - NL  | ![image](banks/PAD-NL.png)  | ![image](banks/PAD-NL@2x.png) | ![image](banks/PAD-NL@3x.png) | ![image](banks/PAD-NL.svg) |
-| Pay After Delivery - Icon  | ![image](banks/PAD-icon.png)  | ![image](banks/PAD-icon@2x.png) | ![image](banks/PAD-icon@3x.png) | ![image](banks/PAD-icon.svg) |
-| Pay After Delivery - Installments  | ![image](banks/PAD-Installments.png)  | ![image](banks/PAD-Installments@2x.png) | ![image](banks/PAD-Installments@3x.png) | ![image](banks/PAD-Installments.svg) |
-| Pay After Delivery - In 14  | ![image](banks/PAD-14.png)  | ![image](banks/PAD-14@2x.png) | ![image](banks/PAD-14@3x.png) | ![image](banks/PAD-14.svg) |
+| Pay After Delivery - EN  | ![image](methods/PAD-EN.png)  | ![image](methods/PAD-EN@2x.png) | ![image](methods/PAD-EN@3x.png) | ![image](methods/PAD-EN.svg) |
+| Pay After Delivery - NL  | ![image](methods/PAD-NL.png)  | ![image](methods/PAD-NL@2x.png) | ![image](methods/PAD-NL@3x.png) | ![image](methods/PAD-NL.svg) |
+| Pay After Delivery - Icon  | ![image](methods/PAD-icon.png)  | ![image](methods/PAD-icon@2x.png) | ![image](methods/PAD-icon@3x.png) | ![image](methods/PAD-icon.svg) |
+| Pay After Delivery - Installments  | ![image](methods/PAD-Installments.png)  | ![image](methods/PAD-Installments@2x.png) | ![image](methods/PAD-Installments@3x.png) | ![image](methods/PAD-Installments.svg) |
+| Pay After Delivery - In 14  | ![image](methods/PAD-14.png)  | ![image](methods/PAD-14@2x.png) | ![image](methods/PAD-14@3x.png) | ![image](methods/PAD-14.svg) |
 
 # Alipay Plus - logos
 | Payment method  | @1x | @2x | @3x | SVG |
