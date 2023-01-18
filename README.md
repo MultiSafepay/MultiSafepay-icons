@@ -35,8 +35,6 @@ For MultiSafepay logos, please refer to our <a href="https://github.com/MultiSaf
 | [Banktransfer-FR](https://docs.multisafepay.com/docs/bank-transfer)  | ![image](methods/banktransfer-fr.png)  | ![image](methods/banktransfer-fr@2x.png) | ![image](methods/banktransfer-fr@3x.png) | ![image](methods/banktransfer-fr.svg) |
 | [Giropay](https://docs.multisafepay.com/docs/giropay)  | ![image](methods/giropay.png)  | ![image](methods/giropay@2x.png) | ![image](methods/giropay@3x.png) | ![image](methods/giropay.svg) |
 | [EPS](https://docs.multisafepay.com/docs/eps)  | ![image](methods/eps.png)  | ![image](methods/eps@2x.png) | ![image](methods/eps@3x.png) | ![image](methods/eps.svg) |
-| [Payafter-EN](https://docs.multisafepay.com/docs/pay-after-delivery)  | ![image](methods/payafter-en.png)  | ![image](methods/payafter-en@2x.png) | ![image](methods/payafter-en@3x.png) | ![image](methods/payafter-en.svg) |
-| [Payafter-NL](https://docs.multisafepay.com/docs/pay-after-delivery)  | ![image](methods/payafter-nl.png)  | ![image](methods/payafter-nl@2x.png) | ![image](methods/payafter-nl@3x2.png) | ![image](methods/payafter-nl.svg) |
 | [E-Invoicing](https://docs.multisafepay.com/docs/e-invoicing)  | ![image](methods/e-invoicing.png)  | ![image](methods/e-invoicing@2x.png) | ![image](methods/e-invoicing@3x.png) | ![image](methods/e-invoicing.svg) |
 | [Klarna](https://docs.multisafepay.com/docs/klarna)  | ![image](methods/klarna.png)  | ![image](methods/klarna@2x.png) | ![image](methods/klarna@3x.png) | ![image](methods/klarna.svg) |
 | [PayPal](https://docs.multisafepay.com/docs/paypal)  | ![image](methods/paypal.png)  | ![image](methods/paypal@2x.png) | ![image](methods/paypal@3x.png) | ![image](methods/paypal.svg) |
@@ -67,6 +65,15 @@ For MultiSafepay logos, please refer to our <a href="https://github.com/MultiSaf
 | [Cartes Bancaires](https://docs.multisafepay.com/docs/card-payments)  | ![image](methods/cartes-bancaires.png)  | ![image](methods/cartes-bancaires@2x.png) | ![image](methods/cartes-bancaires@3x.png) | ![image](methods/cartes-bancaires.svg) |
 | MyBank  | ![image](methods/mybank.png)  | ![image](methods/mybank@2x.png) | ![image](methods/mybank@3x.png) | ![image](methods/mybank.svg) |
 | [WeChat Pay](https://docs.multisafepay.com/docs/wechat-pay)  | ![image](methods/wechatpay.png)  | ![image](methods/wechatpay@2x.png) | ![image](methods/wechatpay@3x.png) | ![image](methods/wechatpay.svg) |
+
+# Pay After Delivery
+| Payment method  | @1x | @2x | @3x | SVG |
+| ------------- | ------------- | ------------ | ------------ | ------------ |
+| Pay After Delivery - EN  | ![image](methods/PAD-EN.png)  | ![image](methods/PAD-EN@2x.png) | ![image](methods/PAD-EN@3x.png) | ![image](methods/PAD-EN.svg) |
+| Pay After Delivery - NL  | ![image](methods/PAD-NL.png)  | ![image](methods/PAD-NL@2x.png) | ![image](methods/PAD-NL@3x.png) | ![image](methods/PAD-NL.svg) |
+| Pay After Delivery - Icon  | ![image](methods/PAD-icon.png)  | ![image](methods/PAD-icon@2x.png) | ![image](methods/PAD-icon@3x.png) | ![image](methods/PAD-icon.svg) |
+| Pay After Delivery - Installments  | ![image](methods/PAD-Installments.png)  | ![image](methods/PAD-Installments@2x.png) | ![image](methods/PAD-Installments@3x.png) | ![image](methods/PAD-Installments.svg) |
+| Pay After Delivery - In 14  | ![image](methods/PAD-14.png)  | ![image](methods/PAD-14@2x.png) | ![image](methods/PAD-14@3x.png) | ![image](methods/PAD-14.svg) |
 
 # Alipay Plus - logos
 | Payment method  | @1x | @2x | @3x | SVG |
