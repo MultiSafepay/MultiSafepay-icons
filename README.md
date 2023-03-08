@@ -50,7 +50,7 @@ For MultiSafepay logos, please refer to our <a href="https://github.com/MultiSaf
 | [Belfius](https://docs.multisafepay.com/docs/belfius)  | ![image](methods/belfius.png)  | ![image](methods/belfius@2x.png) | ![image](methods/belfius@3x.png) | ![image](methods/belfius.svg) |
 | [CBC](https://docs.multisafepay.com/docs/cbc-kbc)  | ![image](methods/cbc.png)  | ![image](methods/cbc@2x.png) | ![image](methods/cbc@3x.png) | ![image](methods/cbc.svg) |
 | [KBC](https://docs.multisafepay.com/docs/cbc-kbc)  | ![image](methods/kbc.png)  | ![image](methods/kbc@2x.png) | ![image](methods/kbc@3x.png) | ![image](methods/kbc.svg) |
-| [Riverty](https://docs.multisafepay.com/docs/riverty)  | ![image](methods/riverty-checkout.png)  | ![image](methods/riverty-checkout@2x.png) | ![image](methods/riverty-checkout@3x.png) | ![image](methods/riverty-checkout.svg) |
+| [Riverty](https://docs.multisafepay.com/docs/riverty)  | ![image](methods/riverty.png)  | ![image](methods/riverty@2x.png) | ![image](methods/riverty@3x.png) | ![image](methods/riverty.svg) |
 | [Betaal per Maand](https://docs.multisafepay.com/docs/betaal-per-maand)  | ![image](methods/betaalplan-nl.png)  | ![image](methods/betaalplan-nl@2x.png) | ![image](methods/betaalplan-nl@3x.png) | ![image](methods/betaalplan-nl.svg) |
 | [Betaal per Maand-en](https://docs.multisafepay.com/docs/betaal-per-maand)  | ![image](methods/betaalplan-en.png)| ![image](methods/betaalplan-en@2x.png)| ![image](methods/betaalplan-en@3x.png) | ![image](methods/betaalplan-en.svg) |
 | [Postepay](https://docs.multisafepay.com/docs/card-payments)  | ![image](methods/postepay.png)  | ![image](methods/postepay@2x.png) | ![image](methods/postepay@3x.png) | ![image](methods/postepay.svg) |
