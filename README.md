@@ -65,7 +65,7 @@ For MultiSafepay logos, please refer to our <a href="https://github.com/MultiSaf
 | [Cartes Bancaires](https://docs.multisafepay.com/docs/card-payments)  | ![image](methods/cartes-bancaires.png)  | [Cartes Bancaires@2x](methods/cartes-bancaires@2x.png) | [Cartes Bancaires@3x](methods/cartes-bancaires@3x.png) | ![image](methods/cartes-bancaires.svg) |
 | MyBank  | ![image](methods/mybank.png)  | [MyBank@2x](methods/mybank@2x.png) | [MyBank@3x](methods/mybank@3x.png) | ![image](methods/mybank.svg) |
 | [WeChat Pay](https://docs.multisafepay.com/docs/wechat-pay)  | ![image](methods/wechatpay.png)  | [WeChat Pay@2x](methods/wechatpay@2x.png) | [WeChat Pay@3x](methods/wechatpay@3x.png) | ![image](methods/wechatpay.svg) |
-| Zinia  | ![image](methods/zinia.png)  | [WeChat Pay@2x](methods/zinia@2x.png) | [WeChat Pay@3x](methods/zinia@3x.png) | ![image](methods/zinia.svg) |
+| Zinia  | ![image](methods/zinia.png)  | [Zina@2x](methods/zinia@2x.png) | [Zinia@3x](methods/zinia@3x.png) | ![image](methods/zinia.svg) |
 
 # Pay After Delivery
 | Payment method  | @1x | @2x | @3x | SVG |
