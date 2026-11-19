@@ -25,34 +25,33 @@ For MultiSafepay logos, please refer to our <a href="https://github.com/MultiSaf
 | [V Pay](https://docs.multisafepay.com/docs/card-payments)  | ![image](methods/v_pay.png)  | [V Pay@2x](methods/v_pay@2x.png) | [V Pay@3x](methods/v_pay@3x.png) | ![image](methods/v_pay.svg) |
 | [Amex](https://docs.multisafepay.com/docs/card-payments)  | ![image](methods/amex.png)  | [Amex@2x](methods/amex@2x.png) | [Amex@3x](methods/amex@3x.png) | ![image](methods/amex.svg) |
 | [American Express](https://docs.multisafepay.com/docs/card-payments)  | ![image](methods/american-express.png)  | [American Express@2x](methods/american-express@2x.png) | [American Express@3x](methods/american-express@3x.png) | ![image](methods/american-express.svg) |
-| [iDEAL](https://docs.multisafepay.com/docs/ideal)  | ![image](methods/ideal.png)  | [iDEAL@2x](methods/ideal@2x.png) | [iDEAL@3x](methods/ideal@3x.png) | ![image](methods/ideal.svg) |
+| [iDEAL &#124; Wero](https://docs.multisafepay.com/docs/ideal) | | | | ![image](methods/ideal-wero.svg) |
 | [iDEAL QR](https://docs.multisafepay.com/docs/ideal#ideal-qr)  | ![image](methods/ideal-qr.png)  | [iDEAL QR@2x](methods/ideal-qr@2x.png) | [iDEAL QR@3x](methods/ideal-qr@3x.png) | ![image](methods/ideal-qr.svg) |
-| [iDEAL in3](https://docs.multisafepay.com/docs/in3)  | ![image](methods/ideal-in3.png) | [iDEAL in3@2x](methods/ideal-in3@2x.png) | [iDEAL in3@3x](methods/ideal-in3@3x.png) | ![image](methods/ideal-in3.svg) |
+| [in3](https://docs.multisafepay.com/docs/in3) | | | | ![image](methods/in3.svg) |
 | [Bancontact](https://docs.multisafepay.com/docs/bancontact)	  | ![image](methods/bancontact.png)  | [Bancontact@2x](methods/bancontact@2x.png) | [Bancontact@3x](methods/bancontact@3x.png) | ![image](methods/bancontact.svg) |
+| [Bizum](https://docs.multisafepay.com/docs/bizum) | | | | ![image](methods/bizum.svg) |
 | [Alipay](https://docs.multisafepay.com/docs/alipay)  | ![image](methods/alipay.png?)  | [Alipay@2x](methods/alipay@2x.png?) | [Alipay@3x](methods/alipay@3x.png?) | ![image](methods/alipay.svg?) |
 | [Banktransfer-EN](https://docs.multisafepay.com/docs/bank-transfer)  | ![image](methods/banktransfer-en.png)  | [Banktransfer-EN@2x](methods/banktransfer-en@2x.png) | [Banktransfer-EN@3x](methods/banktransfer-en@3x.png) | ![image](methods/banktransfer-en.svg) |
 | [Banktransfer-NL](https://docs.multisafepay.com/docs/bank-transfer)  | ![image](methods/banktransfer-nl.png)  | [Banktransfer-NL@2x](methods/banktransfer-nl@2x.png) | [Banktransfer-NL@3x](methods/banktransfer-nl@3x.png) | ![image](methods/banktransfer-nl.svg) |
 | [Banktransfer-DE](https://docs.multisafepay.com/docs/bank-transfer)  | ![image](methods/banktransfer-de.png)  | [Banktransfer-DE@2x](methods/banktransfer-de@2x.png) | [Banktransfer-DE@3x](methods/banktransfer-de@3x.png) | ![image](methods/banktransfer-de.svg) |
 | [Banktransfer-ES](https://docs.multisafepay.com/docs/bank-transfer)  | ![image](methods/banktransfer-es.png)  | [Banktransfer-ES@2x](methods/banktransfer-es@2x.png) | [Banktransfer-ES@3x](methods/banktransfer-es@3x.png) | ![image](methods/banktransfer-es.svg) |
 | [Banktransfer-FR](https://docs.multisafepay.com/docs/bank-transfer)  | ![image](methods/banktransfer-fr.png)  | [Banktransfer-FR@2x](methods/banktransfer-fr@2x.png) | [Banktransfer-FR@3x](methods/banktransfer-fr@3x.png) | ![image](methods/banktransfer-fr.svg) |
-| [Giropay](https://docs.multisafepay.com/docs/giropay)  | ![image](methods/giropay.png)  | [Giropay@2x](methods/giropay@2x.png) | [Giropay@3x](methods/giropay@3x.png) | ![image](methods/giropay.svg) |
 | [EPS](https://docs.multisafepay.com/docs/eps)  | ![image](methods/eps.png)  | [EPS@2x](methods/eps@2x.png) | [EPS@3x](methods/eps@3x.png) | ![image](methods/eps.svg) |
 | [E-Invoicing](https://docs.multisafepay.com/docs/e-invoicing)  | ![image](methods/e-invoicing.png)  | [E-Invoicing@2x](methods/e-invoicing@2x.png) | [E-Invoicing@3x](methods/e-invoicing@3x.png) | ![image](methods/e-invoicing.svg) |
-| [Klarna](https://docs.multisafepay.com/docs/klarna)  | ![image](methods/klarna.png)  | [Klarna@2x](methods/klarna@2x.png) | [Klarna@3x](methods/klarna@3x.png) | ![image](methods/klarna.svg) |
+| [Klarna via MultiSafepay](https://docs.multisafepay.com/docs/klarna)  | ![image](methods/klarna.png)  | [Klarna@2x](methods/klarna@2x.png) | [Klarna@3x](methods/klarna@3x.png) | ![image](methods/klarna.svg) |
+| [Paylater](https://docs.multisafepay.com/docs/billink) |  | | [Paylater@3x](methods/paylater.png) | ![image](methods/paylater.svg) |
 | [PayPal](https://docs.multisafepay.com/docs/paypal)  | ![image](methods/paypal.png)  | [PayPal@2x](methods/paypal@2x.png) | [PayPal@3x](methods/paypal@3x.png) | ![image](methods/paypal.svg) |
-| Amazon Pay  | ![image](methods/amazonpay.png)  | [Amazon Pay@2x](methods/amazonpay@2x.png) | [Amazon Pay@3x](methods/amazonpay@3x.png) | ![image](methods/amazonpay.svg) |
+| [Amazon Pay](https://docs.multisafepay.com/docs/amazon-pay)  | ![image](methods/amazonpay.png)  | [Amazon Pay@2x](methods/amazonpay@2x.png) | [Amazon Pay@3x](methods/amazonpay@3x.png) | ![image](methods/amazonpay.svg) |
 | [Dankort](https://docs.multisafepay.com/docs/card-payments)  | ![image](methods/dankort.png)  | [Dankort@2x](methods/dankort@2x.png) | [Dankort@3x](methods/dankort@3x.png) | ![image](methods/dankort.svg) |
-| [Sofort](https://docs.multisafepay.com/docs/sofort)  | ![image](methods/sofort.png)  | [Sofort@2x](methods/sofort@2x.png) | [Sofort@3x](methods/sofort@3x.png) | ![image](methods/sofort.svg) |
 | [Przelewy24](https://docs.multisafepay.com/docs/dotpay) (Formerly known as Dotpay) | ![image](methods/przelewy24.png)  | [Przelewy24@2x](methods/przelewy24@2x.png) | [Przelewy24@3x](methods/przelewy24@3x.png) | ![image](methods/przelewy24.svg) |
 | [Paysafecard](https://docs.multisafepay.com/docs/paysafecard)  | ![image](methods/paysafecard.png)  | [Paysafecard@2x](methods/paysafecard@2x.png) | [Paysafecard@3x](methods/paysafecard@3x.png) | ![image](methods/paysafecard.svg) |
-| [TrustPay](https://docs.multisafepay.com/docs/trustpay)  | ![image](methods/trustpay.png)  | [TrustPay@2x](methods/trustpay@2x.png) | [TrustPay@3x](methods/trustpay@3x.png) | ![image](methods/trustpay.svg) |
 | [Trustly](https://docs.multisafepay.com/docs/trustly)  | ![image](methods/trustly.png)  | [Trustly@2x](methods/trustly@2x.png) | [Trustly@3x](methods/trustly@3x.png) | ![image](methods/trustly.svg) |
 | [Directdebit-EN](https://docs.multisafepay.com/docs/sepa-direct-debit)  | ![image](methods/directdebit-en.png)  | [Directdebit-EN@2x](methods/directdebit-en@2x.png) | [Directdebit-EN@3x](methods/directdebit-en@3x.png) | ![image](methods/directdebit-en.svg) |
 | [Directdebit-NL](https://docs.multisafepay.com/docs/sepa-direct-debit)  | ![image](methods/directdebit-nl.png)  | [Directdebit-NL@2x](methods/directdebit-nl@2x.png) | [Directdebit-NL@3x](methods/directdebit-nl@3x.png) | ![image](methods/directdebit-nl.svg) |
 | [Belfius](https://docs.multisafepay.com/docs/belfius)  | ![image](methods/belfius.png)  | [Belfius@2x](methods/belfius@2x.png) | [Belfius@3x](methods/belfius@3x.png) | ![image](methods/belfius.svg) |
 | [CBC](https://docs.multisafepay.com/docs/cbc-kbc)  | ![image](methods/cbc.png)  | [CBC@2x](methods/cbc@2x.png) | [CBC@3x](methods/cbc@3x.png) | ![image](methods/cbc.svg) |
 | [KBC](https://docs.multisafepay.com/docs/cbc-kbc)  | ![image](methods/kbc.png)  | [KBC@2x](methods/kbc@2x.png) | [KBC@3x](methods/kbc@3x.png) | ![image](methods/kbc.svg) |
-| [Riverty](https://docs.multisafepay.com/docs/riverty)  | ![image](methods/riverty.png)  | [Riverty@2x](methods/riverty@2x.png) | [Riverty@3x](methods/riverty@3x.png) | ![image](methods/riverty.svg) |
+| [Riverty](https://docs.multisafepay.com/docs/riverty) | | | | ![image](methods/riverty.svg) |
 | [Postepay](https://docs.multisafepay.com/docs/card-payments)  | ![image](methods/postepay.png)  | [Postepay@2x](methods/postepay@2x.png) | [Postepay@3x](methods/postepay@3x.png) | ![image](methods/postepay.svg) |
 | [Request to Pay](https://docs.multisafepay.com/docs/request-to-pay)  | ![image](methods/RTP.png)  | [Request to Pay@2x](methods/RTP@2x.png) | [Request to Pay@3x](methods/RTP@3x.png) | ![image](methods/RTP.svg) |
 | [Apple Pay](https://docs.multisafepay.com/docs/apple-pay)  | ![image](methods/applepay.png) | [Apple Pay@2x](methods/applepay@2x.png) | [Apple Pay@3x](methods/applepay@3x.png) | ![image](methods/applepay.svg) |
@@ -60,22 +59,11 @@ For MultiSafepay logos, please refer to our <a href="https://github.com/MultiSaf
 | [Credit card](https://docs.multisafepay.com/docs/card-payments)  | ![image](methods/creditcard.png) | [Credit card@2x](methods/creditcard@2x.png) | [Credit card@3x](methods/creditcard@3x.png) | ![image](methods/creditcard.svg) |
 | [Credit card (Alternative)](https://docs.multisafepay.com/docs/card-payments)  | ![image](methods/creditcard2.png) | [Credit card (Alternative)@2x](methods/creditcard2@2x.png) | [Credit card (Alternative)@3x](methods/creditcard2@3x.png) | ![image](methods/creditcard2.svg) |
 | [Credit card (Alternative Black)](https://docs.multisafepay.com/docs/card-payments)  | ![image](methods/creditcard3.png) | [Credit card (Alternative Black@2x](methods/creditcard3@2x.png) | [Credit card (Alternative Black@3x](methods/creditcard3@3x.png) | ![image](methods/creditcard3.svg) |
-| Revolut  | ![image](methods/revolut.png) | [Revolut@2x](methods/revolut@2x.png) | [Revolut@3x](methods/revolut@3x.png) | ![image](methods/revolut.svg) |
 | [Cartes Bancaires](https://docs.multisafepay.com/docs/card-payments)  | ![image](methods/cartes-bancaires.png)  | [Cartes Bancaires@2x](methods/cartes-bancaires@2x.png) | [Cartes Bancaires@3x](methods/cartes-bancaires@3x.png) | ![image](methods/cartes-bancaires.svg) |
 | [MB WAY](https://docs.multisafepay.com/docs/mb-way)  | ![image](methods/mbway.png) | [MB WAY@2x](methods/mbway@2x.png) | [MB WAY@3x](methods/mbway@3x.png) | ![image](methods/mbway.svg) |
 | [Multibanco](https://docs.multisafepay.com/docs/multibanco)  | ![image](methods/multibanco.png) | [Multibanco@2x](methods/multibanco@2x.png) | [Multibanco@3x](methods/multibanco@3x.png) | ![image](methods/multibanco.svg) |
-| MyBank  | ![image](methods/mybank.png)  | [MyBank@2x](methods/mybank@2x.png) | [MyBank@3x](methods/mybank@3x.png) | ![image](methods/mybank.svg) |
+| [MyBank](https://docs.multisafepay.com/docs/mybank)  | ![image](methods/mybank.png)  | [MyBank@2x](methods/mybank@2x.png) | [MyBank@3x](methods/mybank@3x.png) | ![image](methods/mybank.svg) |
 | [WeChat Pay](https://docs.multisafepay.com/docs/wechat-pay)  | ![image](methods/wechatpay.png)  | [WeChat Pay@2x](methods/wechatpay@2x.png) | [WeChat Pay@3x](methods/wechatpay@3x.png) | ![image](methods/wechatpay.svg) |
-| Zinia  | ![image](methods/zinia.png)  | [Zina@2x](methods/zinia@2x.png) | [Zinia@3x](methods/zinia@3x.png) | ![image](methods/zinia.svg) |
-
-# Pay After Delivery
-| Payment method  | @1x | @2x | @3x | SVG |
-| ------------- | ------------- | ------------ | ------------ | ------------ |
-| Pay After Delivery - EN  | ![image](methods/PAD-EN.png)  | [Pay After Delivery - EN@2x](methods/PAD-EN@2x.png) | [Pay After Delivery - EN@3x](methods/PAD-EN@3x.png) | ![image](methods/PAD-EN.svg) |
-| Pay After Delivery - NL  | ![image](methods/PAD-NL.png)  | [Pay After Delivery - NL@2x](methods/PAD-NL@2x.png) | [Pay After Delivery - NL@3x](methods/PAD-NL@3x.png) | ![image](methods/PAD-NL.svg) |
-| Pay After Delivery - Icon  | ![image](methods/PAD-icon.png)  | [Pay After Delivery - Icon@2x](methods/PAD-icon@2x.png) | [Pay After Delivery - Icon@3x](methods/PAD-icon@3x.png) | ![image](methods/PAD-icon.svg) |
-| Pay After Delivery - Installments  | ![image](methods/PAD-Installments.png)  | [Pay After Delivery - Installments@2x](methods/PAD-Installments@2x.png) | [Pay After Delivery - Installments@3x](methods/PAD-Installments@3x.png) | ![image](methods/PAD-Installments.svg) |
-| Pay After Delivery - In 14  | ![image](methods/PAD-14.png)  | [Pay After Delivery - In 14@2x](methods/PAD-14@2x.png) | [Pay After Delivery - In 14@3x](methods/PAD-14@3x.png) | ![image](methods/PAD-14.svg) |
 
 # Alipay Plus - logos
 | Payment method  | @1x | @2x | @3x | SVG |
@@ -131,7 +119,7 @@ For MultiSafepay logos, please refer to our <a href="https://github.com/MultiSaf
 | Nationale Tuinbon  | ![image](giftcards/nationale-tuinbon.png)  | [Nationale Tuinbon@2x](giftcards/nationale-tuinbon@2x.png) | [Nationale Tuinbon@3x](giftcards/nationale-tuinbon@3x.png) | ![image](giftcards/nationale-tuinbon.svg) |
 | Ohmygood  | ![image](giftcards/Ohmygood.png)  | [Ohmygood@2x](giftcards/Ohmygood@2x.png) | [Ohmygood@3x](giftcards/Ohmygood@3x.png) | ![image](giftcards/Ohmygood.svg) |
 | Podium  | ![image](giftcards/podium-cadeaukaart.png)  | [Podium@2x](giftcards/podium-cadeaukaart@2x.png) | [Podium@3x](giftcards/podium-cadeaukaart@3x.png) | ![image](giftcards/podium-cadeaukaart.svg) |
-| Sodexo - Sport & Culture Pass  | ![image](giftcards/sodexo-sportculturepass.png)  | [Sodexo - Sport & Culture Pass@2x](giftcards/sodexo-sportculturepass@2x.png) | [Sodexo - Sport & Culture Pass@3x](giftcards/sodexo-sportculturepass@3x.png) | ![image](giftcards/sodexo-sportculturepass.svg) |
+| Pluxee  |  |  |  | ![image](giftcards/pluxee.svg) |
 | Speelgoedwinkel.nl  | ![image](giftcards/Speelgoedwinkelnl.png)  | [Speelgoedwinkel.nl@2x](giftcards/Speelgoedwinkelnl@2x.png) | [Speelgoedwinkel.nl@3x](giftcards/Speelgoedwinkelnl@3x.png) | ![image](giftcards/Speelgoedwinkelnl.svg) |
 | Sport&Fit Cadeau  | ![image](giftcards/sportenfit.png)  | [Sport&Fit Cadeau@2x](giftcards/sportenfit@2x.png) | [Sport&Fit Cadeau@3x](giftcards/sportenfit@3x.png) | ![image](giftcards/sportenfit.svg) |
 | Sports Gift Card  | ![image](giftcards/sports-girft-card.png)  | [Sports Gift Card@2x](giftcards/sports-girft-card@2x.png) | [Sports Gift Card@3x](giftcards/sports-girft-card@3x.png) | ![image](giftcards/sports-girft-card.svg) |
@@ -141,21 +129,3 @@ For MultiSafepay logos, please refer to our <a href="https://github.com/MultiSaf
 | Wijncadeau  | ![image](giftcards/wijncadeau.png)  | [Wijncadeau@2x](giftcards/wijncadeau@2x.png) | [Wijncadeau@3x](giftcards/wijncadeau@3x.png) | ![image](giftcards/wijncadeau.svg) |
 | Winkel Cheque  | ![image](giftcards/Winkelcheque.png)  | [Winkel Cheque@2x](giftcards/Winkelcheque@2x.png) | [Winkel Cheque@3x](giftcards/Winkelcheque@3x.png) | ![image](giftcards/Winkelcheque.svg) |
 | YourGift  | ![image](giftcards/yourgift.png)  | [YourGift@2x](giftcards/yourgift@2x.png) | [YourGift@3x](giftcards/yourgift@3x.png) | ![image](giftcards/yourgift.svg) |
-
-# Monizze - logos
-| Payment method  | @1x | @2x | @3x | SVG |
-| ------------- | ------------- | ------------ | ------------ | ------------ |
-| [Monizze](https://docs.multisafepay.com/docs/monizze)  | ![image](giftcards/monizze.png)  | [Monizze@2x](giftcards/monizze@2x.png) | [Monizze@3x](giftcards/monizze@3x.png) | ![image](giftcards/monizze.svg) |
-| [Gift](https://docs.multisafepay.com/docs/monizze)  | ![image](giftcards/monizze-gift-en.png)  | [Gift@2x](giftcards/monizze-gift-en@2x.png) | [Gift@3x](giftcards/monizze-gift-en@3x.png) | ![image](giftcards/monizze-gift-en.svg) |
-| [Cadeau](https://docs.multisafepay.com/docs/monizze)  | ![image](giftcards/monizze-gift-nl.png)  | [Cadeau@2x](giftcards/monizze-gift-nl@2x.png) | [Cadeau@3x](giftcards/monizze-gift-nl@3x.png) | ![image](giftcards/monizze-gift-nl.svg) |
-| [Eco](https://docs.multisafepay.com/docs/monizze)  | ![image](giftcards/monizze-eco.png)  | [Eco@2x](giftcards/monizze-eco@2x.png) | [Eco@3x](giftcards/monizze-eco@3x.png) | ![image](giftcards/monizze-eco.svg) |
-| [Meal](https://docs.multisafepay.com/docs/monizze)  | ![image](giftcards/monizze-meal-en.png)  | [Meal@2x](giftcards/monizze-meal-en@2x.png) | [Meal@3x](giftcards/monizze-meal-en@3x.png) | ![image](giftcards/monizze-meal-en.svg) |
-| [Maaltijd](https://docs.multisafepay.com/docs/monizze)  | ![image](giftcards/monizze-meal-nl.png)  | [Maaltijd@2x](giftcards/monizze-meal-nl@2x.png) | [Maaltijd@3x](giftcards/monizze-meal-nl@3x.png) | ![image](giftcards/monizze-meal-nl.svg) |
-| [Repas](https://docs.multisafepay.com/docs/monizze)  | ![image](giftcards/monizze-meal-fr.png)  | [Repas@2x](giftcards/monizze-meal-fr@2x.png) | [Repas@3x](giftcards/monizze-meal-fr@3x.png) | ![image](giftcards/monizze-meal-fr.svg) |
-| [Monizze + Eco](https://docs.multisafepay.com/docs/monizze)  | ![image](giftcards/monizze-sticker-eco.png)  | [Monizze + Eco@2x](giftcards/monizze-sticker-eco@2x.png) | [Monizze + Eco@3x](giftcards/monizze-sticker-eco@3x.png) | ![image](giftcards/monizze-sticker-eco.svg) |
-| [Monizze + Eco, Gift](https://docs.multisafepay.com/docs/monizze)  | ![image](giftcards/monizze-sticker-ecogift.png)  | [Monizze + Eco, Gift@2x](giftcards/monizze-sticker-ecogift@2x.png) | [Monizze + Eco, Gift@3x](giftcards/monizze-sticker-ecogift@3x.png) | ![image](giftcards/monizze-sticker-ecogift.svg) |
-| [Monizze + Gift](https://docs.multisafepay.com/docs/monizze)  | ![image](giftcards/monizze-sticker-gift.png)  | [Monizze + Gift@2x](giftcards/monizze-sticker-gift@2x.png) | [Monizze + Gift@3x](giftcards/monizze-sticker-gift@3x.png) | ![image](giftcards/monizze-sticker-gift.svg) |
-| [Monizze + Meal](https://docs.multisafepay.com/docs/monizze)  | ![image](giftcards/monizze-sticker-meal.png)  | [Monizze + Meal@2x](giftcards/monizze-sticker-meal@2x.png) | [Monizze + Meal@3x](giftcards/monizze-sticker-meal@3x.png) | ![image](giftcards/monizze-sticker-meal.svg) |
-| [Monizze + Meal, Eco](https://docs.multisafepay.com/docs/monizze)  | ![image](giftcards/monizze-sticker-mealeco.png)  | [Monizze + Meal, Eco@2x](giftcards/monizze-sticker-mealeco@2x.png) | [Monizze + Meal, Eco@3x](giftcards/monizze-sticker-mealeco@3x.png) | ![image](giftcards/monizze-sticker-mealeco.svg) |
-| [Monizze + Meal, Gift](https://docs.multisafepay.com/docs/monizze)  | ![image](giftcards/monizze-sticker-mealgift.png)  | [Monizze + Meal, Gift@2x](giftcards/monizze-sticker-mealgift@2x.png) | [Monizze + Meal, Gift@3x](giftcards/monizze-sticker-mealgift@3x.png) | ![image](giftcards/monizze-sticker-mealgift.svg) |
-| [Monizze + Meal, Eco, Gift](https://docs.multisafepay.com/docs/monizze)  | ![image](giftcards/monizze-sticker-mealecogift.png)  | [Monizze + Meal, Eco, Gift@2x](giftcards/monizze-sticker-mealecogift@2x.png) | [Monizze + Meal, Eco, Gift@3x](giftcards/monizze-sticker-mealecogift@3x.png) | ![image](giftcards/monizze-sticker-mealecogift.svg) |
