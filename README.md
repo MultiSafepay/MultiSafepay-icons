@@ -39,7 +39,7 @@ For MultiSafepay logos, please refer to our <a href="https://github.com/MultiSaf
 | [EPS](https://docs.multisafepay.com/docs/eps)  | ![image](methods/eps.png)  | [EPS@2x](methods/eps@2x.png) | [EPS@3x](methods/eps@3x.png) | ![image](methods/eps.svg) |
 | [E-Invoicing](https://docs.multisafepay.com/docs/e-invoicing)  | ![image](methods/e-invoicing.png)  | [E-Invoicing@2x](methods/e-invoicing@2x.png) | [E-Invoicing@3x](methods/e-invoicing@3x.png) | ![image](methods/e-invoicing.svg) |
 | [Klarna via MultiSafepay](https://docs.multisafepay.com/docs/klarna)  | ![image](methods/klarna.png)  | [Klarna@2x](methods/klarna@2x.png) | [Klarna@3x](methods/klarna@3x.png) | ![image](methods/klarna.svg) |
-| [Paylater](https://docs.multisafepay.com/docs/billink) | ![image](methods/paylater.png) | | | ![image](methods/paylater.svg) |
+| [Paylater](https://docs.multisafepay.com/docs/billink) |  | | [Paylater@3x](methods/paylater.png) | ![image](methods/paylater.svg) |
 | [PayPal](https://docs.multisafepay.com/docs/paypal)  | ![image](methods/paypal.png)  | [PayPal@2x](methods/paypal@2x.png) | [PayPal@3x](methods/paypal@3x.png) | ![image](methods/paypal.svg) |
 | [Amazon Pay](https://docs.multisafepay.com/docs/amazon-pay)  | ![image](methods/amazonpay.png)  | [Amazon Pay@2x](methods/amazonpay@2x.png) | [Amazon Pay@3x](methods/amazonpay@3x.png) | ![image](methods/amazonpay.svg) |
 | [Dankort](https://docs.multisafepay.com/docs/card-payments)  | ![image](methods/dankort.png)  | [Dankort@2x](methods/dankort@2x.png) | [Dankort@3x](methods/dankort@3x.png) | ![image](methods/dankort.svg) |
