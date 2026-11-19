@@ -68,15 +68,6 @@ For MultiSafepay logos, please refer to our <a href="https://github.com/MultiSaf
 | [WeChat Pay](https://docs.multisafepay.com/docs/wechat-pay)  | ![image](methods/wechatpay.png)  | [WeChat Pay@2x](methods/wechatpay@2x.png) | [WeChat Pay@3x](methods/wechatpay@3x.png) | ![image](methods/wechatpay.svg) |
 | Zinia  | ![image](methods/zinia.png)  | [Zina@2x](methods/zinia@2x.png) | [Zinia@3x](methods/zinia@3x.png) | ![image](methods/zinia.svg) |
 
-# Pay After Delivery
-| Payment method  | @1x | @2x | @3x | SVG |
-| ------------- | ------------- | ------------ | ------------ | ------------ |
-| Pay After Delivery - EN  | ![image](methods/PAD-EN.png)  | [Pay After Delivery - EN@2x](methods/PAD-EN@2x.png) | [Pay After Delivery - EN@3x](methods/PAD-EN@3x.png) | ![image](methods/PAD-EN.svg) |
-| Pay After Delivery - NL  | ![image](methods/PAD-NL.png)  | [Pay After Delivery - NL@2x](methods/PAD-NL@2x.png) | [Pay After Delivery - NL@3x](methods/PAD-NL@3x.png) | ![image](methods/PAD-NL.svg) |
-| Pay After Delivery - Icon  | ![image](methods/PAD-icon.png)  | [Pay After Delivery - Icon@2x](methods/PAD-icon@2x.png) | [Pay After Delivery - Icon@3x](methods/PAD-icon@3x.png) | ![image](methods/PAD-icon.svg) |
-| Pay After Delivery - Installments  | ![image](methods/PAD-Installments.png)  | [Pay After Delivery - Installments@2x](methods/PAD-Installments@2x.png) | [Pay After Delivery - Installments@3x](methods/PAD-Installments@3x.png) | ![image](methods/PAD-Installments.svg) |
-| Pay After Delivery - In 14  | ![image](methods/PAD-14.png)  | [Pay After Delivery - In 14@2x](methods/PAD-14@2x.png) | [Pay After Delivery - In 14@3x](methods/PAD-14@3x.png) | ![image](methods/PAD-14.svg) |
-
 # Alipay Plus - logos
 | Payment method  | @1x | @2x | @3x | SVG |
 | ------------- | ------------- | ------------ | ------------ | ------------ |
